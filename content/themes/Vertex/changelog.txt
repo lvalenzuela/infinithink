@@ -1,0 +1,87 @@
+version 1.7 ( updated 04-17-2014 )
+- Fixed the issue with ET Settings Upload button, breaking WYSIWYG editor in WordPress 3.9
+	* functions.php
+	* js/admin_custom_uploader.js
+- Bumped version number
+	* style.css
+
+version 1.6 ( updated 02-25-2014 )
+- Fixed the issue with slashes added to Name, Subject and Message fields in the contact form
+	* page-contact.php
+- Fixed the issue with resizing of images that have the x symbol between width and height values in the filename
+- Fixed the issue with .jpeg images and uppercase extensions in cached files
+- The theme doesn't strip slashes from custom css now, when saving the option to the database
+- Removed buzz shortcode ( Google retired Buzz )
+- Fixed ePanel SEO home options not appearing on static front page
+- Better compatibility with WordPress SEO and All In One SEO Pack plugins. ePanel SEO is disabled if these plugins are active now.
+	* epanel/core_functions.php
+	* epanel/custom_functions.php
+	* epanel/shortcodes/shortcodes.php
+- Fixed blurry background images on iOS devices
+	* functions.php
+- Fixed the issue with menu causing page to jump
+- Top menu is no longer fixed on mobile devices
+- Fixed the issue with the menu bar visibility, when you resize the browser window
+- Added the code to show the top menu, when the user resizes the window
+- Fixed the issue with the wrong size of the menu bar
+	* js/custom.js
+- Fixed the issue with bottom integration code used in 2 places on single posts pages
+	* single.php
+- Fixed fonts rendering in Safari
+- Corrected the fix for IE8 images
+- Bumped version number
+	* style.css
+
+version 1.5 ( updated 12-23-2013 )
+- Now you can update Elegant Themes in the Dashboard: https://www.elegantthemes.com/members-area/documentation.html#updater
+	* epanel/custom_functions.php
+- Bumped version number
+	* style.css
+
+version 1.4 ( updated 09-13-2013 )
+- Fixed translation issue
+	* functions.php
+- Fixed Tabs shortcode layout issues with the slide effect
+	* epanel/shortcodes/css/shortcodes.css
+	* epanel/shortcodes/shortcodes.php
+- Bumped version number
+	* style.css
+
+version 1.3 ( updated 08-02-2013 )
+- Fixed separate_comments function notice
+	* epanel/custom_functions.php
+- Bumped version number
+	* style.css
+
+version 1.2 ( updated 06-26-2013 )
+- Fixed issue with static homepage
+	* front-page.php
+- Fixed Post/Page Editor Word Count Problem
+- Fixed issue with left tabs shortcode
+- Fixed tooltip glitch
+- Fixed issue with span in pricing table
+- Fixed get_current_theme warning message.
+- Fixed the issue with Fancybox videos not working on second launch in WordPress 3.6
+- Added shortcodes names to shortcode_atts() to enable filtering
+
+List of modified files:
+* epanel/custom_functions.php
+* epanel/page_templates/js/et-ptemplates-frontend.js
+* epanel/page_templates/js/fancybox/jquery.fancybox-1.3.4.pack.js
+* epanel/shortcodes/css/shortcodes.css
+* epanel/shortcodes/js/et_shortcodes_frontend.js
+* epanel/shortcodes/js/et_shortcodes_frontend.dev.js
+* epanel/shortcodes/shortcodes.php
+
+version 1.1 ( updated 06-13-2013 )
+- Added 'Callout Button Text' option to ePanel
+	* functions.php
+	* epanel/options_vertex.php
+- Fixed small issue in the fixed menu bar
+	* js/custom.js
+- Bumped version number
+	* style.css
+
+version 1.0
+
+- initial release

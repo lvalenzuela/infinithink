@@ -1,0 +1,15 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">project</custom-type>
+		<custom-type translate="1">team-member</custom-type>
+		<custom-type translate="1">testimonial</custom-type>
+	</custom-types>
+	<admin-texts>
+		<key name="et_vertex">
+			<key name="vertex_date_format" />
+			<key name="vertex_seo_home_titletext" />
+			<key name="vertex_seo_home_descriptiontext" />
+			<key name="vertex_seo_home_keywordstext" />
+		</key>
+	</admin-texts>
+</wpml-config>

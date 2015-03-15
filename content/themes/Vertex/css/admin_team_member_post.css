@@ -1,0 +1,5 @@
+.et_vertex_skills_settings { overflow: hidden; }
+.et-skill { border-bottom: 1px solid #ccc; padding: 10px; }
+.et-skill:hover { cursor: move; }
+	.et-skill label { font-weight: bold; margin-bottom: 5px; display: inline-block; min-width: 120px; }
+.et-add-skill { margin-top: 7px !important; }
