@@ -1,0 +1,16 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">testimonial</custom-type>
+	</custom-types>
+	<admin-texts>
+		<key name="et_foxy">
+			<key name="foxy_date_format" />
+			<key name="foxy_callout_url" />
+			<key name="foxy_callout_text" />
+			<key name="foxy_callout_button_text" />
+			<key name="foxy_seo_home_titletext" />
+			<key name="foxy_seo_home_descriptiontext" />
+			<key name="foxy_seo_home_keywordstext" />
+		</key>
+	</admin-texts>
+</wpml-config>

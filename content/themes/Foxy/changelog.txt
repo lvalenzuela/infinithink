@@ -1,0 +1,134 @@
+version 2.1 ( updated 04-17-2014 )
+- Fixed the issue with ET Settings Upload button, breaking WYSIWYG editor in WordPress 3.9
+	* functions.php
+	* js/admin_custom_uploader.js
+- Bumped version number
+	* style.css
+
+version 2.0 ( updated 02-25-2014 )
+- Fixed the issue with slashes added to Name, Subject and Message fields in the contact form
+	* page-contact.php
+- Fixed the issue with resizing of images that have the x symbol between width and height values in the filename
+- Fixed the issue with .jpeg images and uppercase extensions in cached files
+- The theme doesn't strip slashes from custom css now, when saving the option to the database
+- Removed buzz shortcode ( Google retired Buzz )
+- Fixed ePanel SEO home options not appearing on static front page
+- Better compatibility with WordPress SEO and All In One SEO Pack plugins. ePanel SEO is disabled if these plugins are active now.
+	* epanel/core_functions.php
+	* epanel/custom_functions.php
+	* epanel/shortcodes/shortcodes.php
+- Fixed the issue with unstyled menu links appearing before the page fully loads
+	* js/custom.js
+- Bumped version number
+	* style.css
+
+version 1.9 ( updated 02-19-2014 )
+- Fixed 'Your theme has bundled outdated copies of WooCommerce template files' warning message
+	* functions.php
+	* style.css
+	* deleted woocommerce folder
+- Fixed the issue with WooCommerce reports
+	* functions.php
+	* style.css
+- Changed the way widgets areas are registered in the theme
+	* includes/functions/sidebars.php
+
+version 1.8 ( updated 02-11-2014 )
+- Fixed WooCommerce Error
+	* functions.php
+- Bumped version number
+	* style.css
+
+version 1.7 ( updated 12-23-2013 )
+- Now you can update Elegant Themes in the Dashboard: https://www.elegantthemes.com/members-area/documentation.html#updater
+	* epanel/custom_functions.php
+- Bumped version number
+	* style.css
+
+version 1.6 ( updated 09-13-2013 )
+- Fixed Tabs shortcode layout issues with the slide effect
+	* epanel/shortcodes/css/shortcodes.css
+	* epanel/shortcodes/shortcodes.php
+- Bumped version number
+	* style.css
+
+version 1.5 ( updated 08-02-2013 )
+- Fixed separate_comments function notice
+	* epanel/custom_functions.php
+- Bumped version number
+	* style.css
+
+version 1.4 ( updated 06-26-2013 )
+- Removed the default setting for number of posts on homepage
+	* functions.php
+- Added WPML option for callout link
+	* wpml-config.xml
+- Fixed social icons issues in footer ( IE7, IE8 )
+- Fixed issue with small dot in the slider
+	* style.css
+- Added titles to index pages when thumbnails are disabled
+	* includes/entry.php
+- Removed fitVids plugin
+	* functions.php
+	* js/custom.js
+	* deleted js/jquery.fitvids.js
+	* style.css
+- Fixed Post/Page Editor Word Count Problem
+- Fixed issue with left tabs shortcode
+- Fixed tooltip glitch
+- Fixed issue with span in pricing table
+- Fixed get_current_theme warning message.
+- Fixed the issue with Fancybox videos not working on second launch in WordPress 3.6
+- Added shortcodes names to shortcode_atts() to enable filtering
+
+List of modified files:
+* epanel/custom_functions.php
+* epanel/page_templates/js/et-ptemplates-frontend.js
+* epanel/page_templates/js/fancybox/jquery.fancybox-1.3.4.pack.js
+* epanel/shortcodes/css/shortcodes.css
+* epanel/shortcodes/js/et_shortcodes_frontend.js
+* epanel/shortcodes/js/et_shortcodes_frontend.dev.js
+* epanel/shortcodes/shortcodes.php
+
+version 1.3
+- Added premade colorschemes to customizer
+	* style.css
+	* functions.php
+	js/theme-customizer.js
+
+version 1.2 ( updated 05-02-2013 )
+- Fixed the thumbnail URL in the featured slider
+- Fixed post/page editor word count issue
+- Added readme file
+- Fixed posts notification messages in WP-Admin
+- Fixed the issue with slider height
+- Integrated Google Fonts options into Customizer
+
+List of modified files:
+epanel/custom_functions.php
+epanel/google-fonts/et_google_fonts.css
+epanel/google-fonts/et_google_fonts.js
+epanel/google-fonts/images/all-fonts.png
+epanel/options_foxy.php
+functions.php
+includes/featured.php
+lang/de_DE.mo
+lang/de_DE.po
+lang/en_US.mo
+lang/en_US.po
+lang/ru_RU.mo
+lang/ru_RU.po
+readme.url
+style.css
+
+version 1.1 ( updated 04-16-2013 )
+- Improved homepage performance
+	* style.css
+- Added improvement: Slider progress bar now stops on hover
+	* js/custom.js
+- Bumped version number
+	* style.css
+
+version 1.0
+
+- initial release
