@@ -1,0 +1,152 @@
+a:2:{s:6:"params";a:129:{s:5:"title";s:21:"Home Slider with Snow";s:5:"alias";s:16:"home_slider_snow";s:9:"shortcode";s:29:"[rev_slider home_slider_snow]";s:11:"source_type";s:7:"gallery";s:10:"post_types";s:4:"post";s:13:"post_category";s:10:"category_1";s:11:"post_sortby";s:2:"ID";s:20:"posts_sort_direction";s:4:"DESC";s:16:"max_slider_posts";s:2:"30";s:13:"excerpt_limit";s:2:"55";s:18:"slider_template_id";s:0:"";s:10:"posts_list";s:0:"";s:11:"slider_type";s:10:"fullscreen";s:27:"fullscreen_offset_container";s:0:"";s:22:"fullscreen_offset_size";s:0:"";s:21:"fullscreen_min_height";s:0:"";s:23:"full_screen_align_force";s:3:"off";s:11:"auto_height";s:3:"off";s:16:"force_full_width";s:3:"off";s:10:"min_height";s:1:"0";s:5:"width";s:4:"1160";s:6:"height";s:3:"350";s:15:"responsitive_w1";s:3:"940";s:16:"responsitive_sw1";s:3:"770";s:15:"responsitive_w2";s:3:"780";s:16:"responsitive_sw2";s:3:"500";s:15:"responsitive_w3";s:3:"510";s:16:"responsitive_sw3";s:3:"310";s:15:"responsitive_w4";s:1:"0";s:16:"responsitive_sw4";s:1:"0";s:15:"responsitive_w5";s:1:"0";s:16:"responsitive_sw5";s:1:"0";s:15:"responsitive_w6";s:1:"0";s:16:"responsitive_sw6";s:1:"0";s:5:"delay";s:4:"9000";s:7:"shuffle";s:3:"off";s:9:"lazy_load";s:3:"off";s:8:"use_wpml";s:3:"off";s:20:"enable_static_layers";s:3:"off";s:26:"next_slide_on_window_focus";s:3:"off";s:20:"start_js_after_delay";i:0;s:11:"stop_slider";s:3:"off";s:16:"stop_after_loops";i:0;s:13:"stop_at_slide";i:2;s:13:"show_timerbar";s:4:"hide";s:10:"loop_slide";s:4:"loop";s:8:"position";s:6:"center";s:10:"margin_top";i:0;s:13:"margin_bottom";i:0;s:11:"margin_left";i:0;s:12:"margin_right";i:0;s:11:"shadow_type";s:1:"0";s:7:"padding";i:0;s:16:"background_color";s:7:"#FFFFFF";s:25:"background_dotted_overlay";s:4:"none";s:21:"show_background_image";s:5:"false";s:16:"background_image";s:0:"";s:6:"bg_fit";s:5:"cover";s:9:"bg_repeat";s:9:"no-repeat";s:11:"bg_position";s:10:"center top";s:13:"stop_on_hover";s:2:"on";s:19:"keyboard_navigation";s:3:"off";s:16:"navigation_style";s:5:"round";s:14:"navigaion_type";s:6:"bullet";s:17:"navigation_arrows";s:4:"solo";s:19:"navigaion_always_on";s:5:"false";s:11:"hide_thumbs";i:200;s:19:"navigaion_align_hor";s:6:"center";s:20:"navigaion_align_vert";s:6:"bottom";s:20:"navigaion_offset_hor";s:1:"0";s:21:"navigaion_offset_vert";i:20;s:19:"leftarrow_align_hor";s:4:"left";s:20:"leftarrow_align_vert";s:6:"center";s:20:"leftarrow_offset_hor";i:20;s:21:"leftarrow_offset_vert";i:0;s:20:"rightarrow_align_hor";s:5:"right";s:21:"rightarrow_align_vert";s:6:"center";s:21:"rightarrow_offset_hor";i:20;s:22:"rightarrow_offset_vert";i:0;s:11:"thumb_width";i:100;s:12:"thumb_height";i:50;s:12:"thumb_amount";i:5;s:11:"use_spinner";s:1:"3";s:13:"spinner_color";s:7:"#1abc9c";s:12:"use_parallax";s:2:"on";s:23:"disable_parallax_mobile";s:2:"on";s:13:"parallax_type";s:6:"scroll";s:18:"parallax_bg_freeze";s:2:"on";s:16:"parallax_level_1";s:3:"100";s:16:"parallax_level_2";s:2:"10";s:16:"parallax_level_3";s:2:"20";s:16:"parallax_level_4";s:2:"30";s:16:"parallax_level_5";s:2:"40";s:16:"parallax_level_6";s:2:"50";s:16:"parallax_level_7";s:2:"60";s:16:"parallax_level_8";s:2:"70";s:16:"parallax_level_9";s:2:"80";s:17:"parallax_level_10";s:2:"90";s:12:"touchenabled";s:2:"on";s:14:"swipe_velocity";i:75;s:17:"swipe_min_touches";i:1;s:19:"drag_block_vertical";s:5:"false";s:17:"disable_on_mobile";s:3:"off";s:26:"disable_kenburns_on_mobile";s:3:"off";s:17:"hide_slider_under";i:0;s:25:"hide_defined_layers_under";i:0;s:21:"hide_all_layers_under";i:0;s:21:"hide_arrows_on_mobile";s:3:"off";s:22:"hide_bullets_on_mobile";s:3:"off";s:21:"hide_thumbs_on_mobile";s:3:"off";s:28:"hide_thumbs_under_resolution";i:0;s:24:"hide_thumbs_delay_mobile";i:1500;s:16:"start_with_slide";s:1:"1";s:23:"first_transition_active";s:5:"false";s:21:"first_transition_type";s:4:"fade";s:25:"first_transition_duration";i:300;s:28:"first_transition_slot_amount";i:7;s:17:"simplify_ie8_ios4";s:3:"off";s:21:"show_alternative_type";s:3:"off";s:20:"show_alternate_image";s:0:"";s:17:"reset_transitions";s:0:"";s:25:"reset_transition_duration";i:0;s:1:"0";s:30:"Execute settings on all slides";s:17:"jquery_noconflict";s:2:"on";s:10:"js_to_body";s:5:"false";s:11:"output_type";s:4:"none";s:10:"custom_css";s:160:".brooklyn-snow-container {
+  display:block;
+  text-indent: -9999px;
+  width:100% !important;
+  height:100% !important;
+  top:0;
+  left:0;
+  position:absolute;
+}";s:17:"custom_javascript";s:3797:"(function($){
+    
+    /* set variables */
+    var $rev_slider  = $(\'.rev_slider_wrapper\')
+        $snow_holder = $(\'<div class=\"brooklyn-snow-container\"></div>\'),
+        canvas       = document.createElement(\'canvas\'),
+        ctx          = canvas.getContext(\'2d\'),
+        width        = $rev_slider.width(),
+        height       = $rev_slider.height(),
+        active       = false,
+        i            = 0,
+        flakes_count = 200;
+  
+	/* adjust snow canvas*/
+    function adjust_snow_canvas() {
+        
+        /* overwrite global width and height */
+        width   = $rev_slider.width();
+        height  = $rev_slider.height();
+        
+        /* adjust canvas */
+        canvas.width  = width;
+        canvas.height = height;
+        
+        ctx.fillStyle = \'#FFF\'; /* snowcolor */
+        requestAnimFrame(update_snow_canvas);
+        
+    }
+	
+    var Snowflake = function () {
+        
+        this.x = 0;
+        this.y = 0;
+        this.vy = 0;
+        this.vx = 0;
+        this.r = 0;
+    
+        this.reset();
+        
+    }
+ 
+    /* you can make some custom adjustments here  */
+    Snowflake.prototype.reset = function() {
+    
+        this.x = Math.random() * width;
+        this.y = Math.random() * -height;
+       
+        /* More speed? Change this */
+        this.vy = 1 + Math.random() * 3;
+        this.vx = 0.5 - Math.random();
+    
+        /* Bigger snow? */
+        this.r = 1 + Math.random() * 2;    
+        this.o = 0.5 + Math.random() * 0.5;
+    
+    }
+    
+    /* canvas position */
+    canvas.style.position = \'absolute\';
+    canvas.style.left = canvas.style.top = \'0\';
+
+    var snowflakes = [], snowflake;
+    for (i = 0; i < flakes_count; i++) {
+        snowflake = new Snowflake();
+        snowflake.reset();
+        snowflakes.push(snowflake);
+    }
+    
+    function update_snow_canvas() {
+    
+        ctx.clearRect(0, 0, width, height);
+    
+        for (i = 0; i < flakes_count; i++) {
+          snowflake = snowflakes[i];
+          snowflake.y += snowflake.vy;
+          snowflake.x += snowflake.vx;
+    
+          ctx.globalAlpha = snowflake.o;
+          ctx.beginPath();
+          ctx.arc(snowflake.x, snowflake.y, snowflake.r, 0, Math.PI * 2, false);
+          ctx.closePath();
+          ctx.fill();
+    
+          if (snowflake.y > height) {
+            snowflake.reset();
+          }
+        }
+    
+        requestAnimFrame(update_snow_canvas);
+    }
+
+
+    window.requestAnimFrame = (function(){
+        return  window.requestAnimationFrame       ||
+                window.webkitRequestAnimationFrame ||
+                window.mozRequestAnimationFrame    ||
+                function( callback ){
+                    window.setTimeout(callback, 1000 / 60);
+                };
+    })();
+  	
+    $(window).utresize(function(){
+  		adjust_snow_canvas();
+    });
+    
+    /* add canvas to container */
+    $snow_holder.append(canvas);
+    
+    $rev_slider.bind(\"revolution.slide.onloaded\",function (e) {
+        
+       adjust_snow_canvas();
+        
+    });
+    
+    $rev_slider.bind(\"revolution.slide.onchange\",function (e,data) {
+        
+    	/* add canvas to current slide */
+        data.slide.append($snow_holder);
+        
+    });
+    
+   	$rev_slider.bind(\"revolution.slide.onbeforeswap\",function (e) {
+  	
+        /* remove current snow container */
+        $(\'.brooklyn-snow-container\').remove();
+        
+    });
+    
+    /* fade effect for captions while scrolling down */
+    var divs = $(\'.brooklyn-scroll-slider-opacity\'),
+    limit = height;
+
+    $(window).on(\'scroll\', function() {
+       var st = $(this).scrollTop();
+    
+       /* avoid unnecessary call to jQuery function */
+       if (st <= limit) {
+          divs.css({ \'opacity\' : (1 - st/limit) });
+       }
+    });
+    
+    
+  
+})(jQuery);";s:8:"template";s:5:"false";}s:6:"slides";a:4:{i:0;a:4:{s:2:"id";s:1:"1";s:6:"params";a:42:{s:15:"background_type";s:5:"image";s:5:"image";s:21:"uploads/2014/12/1.jpg";s:8:"image_id";s:2:"85";s:5:"title";s:5:"Slide";s:5:"state";s:9:"published";s:9:"date_from";s:0:"";s:7:"date_to";s:0:"";s:16:"slide_transition";s:4:"fade";s:1:"0";s:6:"Remove";s:11:"slot_amount";i:7;s:19:"transition_rotation";i:0;s:19:"transition_duration";i:800;s:5:"delay";s:0:"";s:16:"save_performance";s:3:"off";s:11:"enable_link";s:5:"false";s:9:"link_type";s:7:"regular";s:4:"link";s:0:"";s:12:"link_open_in";s:4:"same";s:10:"slide_link";s:7:"nothing";s:8:"link_pos";s:5:"front";s:11:"slide_thumb";s:0:"";s:10:"class_attr";s:0:"";s:7:"id_attr";s:0:"";s:9:"attr_attr";s:0:"";s:9:"data_attr";s:0:"";s:14:"slide_bg_color";s:7:"#E7E7E7";s:17:"slide_bg_external";s:0:"";s:6:"bg_fit";s:5:"cover";s:8:"bg_fit_x";s:3:"100";s:8:"bg_fit_y";s:3:"100";s:9:"bg_repeat";s:9:"no-repeat";s:11:"bg_position";s:10:"center top";s:13:"bg_position_x";s:1:"0";s:13:"bg_position_y";s:1:"0";s:17:"bg_end_position_x";s:1:"0";s:17:"bg_end_position_y";s:1:"0";s:15:"bg_end_position";s:10:"center top";s:14:"kenburn_effect";s:3:"off";s:12:"kb_start_fit";s:3:"100";s:10:"kb_end_fit";s:3:"100";s:11:"kb_duration";s:4:"9000";s:9:"kb_easing";s:15:"Linear.easeNone";}s:11:"slide_order";s:1:"1";s:6:"layers";a:2:{i:0;a:71:{s:4:"text";s:19:"WELCOME TO BROOKLYN";s:4:"type";s:4:"text";s:4:"left";i:0;s:3:"top";i:0;s:14:"loop_animation";s:4:"none";s:11:"loop_easing";s:16:"Power3.easeInOut";s:10:"loop_speed";s:1:"2";s:13:"loop_startdeg";s:3:"-20";s:11:"loop_enddeg";s:2:"20";s:12:"loop_xorigin";s:2:"50";s:12:"loop_yorigin";s:2:"50";s:11:"loop_xstart";s:1:"0";s:9:"loop_xend";s:1:"0";s:11:"loop_ystart";s:1:"0";s:9:"loop_yend";s:1:"0";s:14:"loop_zoomstart";s:1:"1";s:12:"loop_zoomend";s:1:"1";s:10:"loop_angle";s:1:"0";s:11:"loop_radius";s:2:"10";s:9:"animation";s:3:"lfb";s:6:"easing";s:13:"easeInOutQuad";s:5:"split";s:4:"none";s:8:"endsplit";s:4:"none";s:10:"splitdelay";s:2:"10";s:13:"endsplitdelay";s:2:"10";s:11:"2d_origin_x";s:2:"50";s:11:"2d_origin_y";s:2:"50";s:14:"parallax_level";s:1:"2";s:10:"whitespace";s:6:"nowrap";s:12:"static_start";s:1:"1";s:10:"static_end";s:1:"2";s:5:"speed";i:800;s:9:"align_hor";s:6:"center";s:10:"align_vert";s:6:"middle";s:11:"hiddenunder";b:0;s:8:"resizeme";b:1;s:4:"link";s:0:"";s:12:"link_open_in";s:4:"same";s:10:"link_slide";s:7:"nothing";s:18:"scrollunder_offset";s:0:"";s:5:"style";s:14:"brooklyn-title";s:4:"time";i:500;s:7:"endtime";s:4:"8700";s:8:"endspeed";i:300;s:12:"endanimation";s:7:"fadeout";s:9:"endeasing";s:7:"nothing";s:11:"corner_left";s:7:"nothing";s:12:"corner_right";s:7:"nothing";s:5:"width";i:648;s:6:"height";i:60;s:6:"serial";s:1:"0";s:12:"endTimeFinal";i:8700;s:13:"endSpeedFinal";i:300;s:11:"realEndTime";i:9000;s:8:"timeLast";i:8700;s:12:"endWithSlide";b:1;s:10:"max_height";s:4:"auto";s:9:"max_width";s:4:"auto";s:11:"2d_rotation";s:0:"";s:3:"alt";s:0:"";s:6:"scaleX";s:0:"";s:6:"scaleY";s:0:"";s:17:"scaleProportional";b:0;s:6:"attrID";s:0:"";s:11:"attrClasses";s:30:"brooklyn-scroll-slider-opacity";s:9:"attrTitle";s:0:"";s:7:"attrRel";s:0:"";s:7:"link_id";s:0:"";s:10:"link_class";s:0:"";s:10:"link_title";s:0:"";s:8:"link_rel";s:0:"";}i:1;a:71:{s:4:"text";s:80:"Brooklyn, a truly one page parallax WordPress theme<br> with more than one face.";s:4:"type";s:4:"text";s:4:"left";i:0;s:3:"top";i:80;s:14:"loop_animation";s:4:"none";s:11:"loop_easing";s:16:"Power3.easeInOut";s:10:"loop_speed";s:1:"2";s:13:"loop_startdeg";s:3:"-20";s:11:"loop_enddeg";s:2:"20";s:12:"loop_xorigin";s:2:"50";s:12:"loop_yorigin";s:2:"50";s:11:"loop_xstart";s:1:"0";s:9:"loop_xend";s:1:"0";s:11:"loop_ystart";s:1:"0";s:9:"loop_yend";s:1:"0";s:14:"loop_zoomstart";s:1:"1";s:12:"loop_zoomend";s:1:"1";s:10:"loop_angle";s:1:"0";s:11:"loop_radius";s:2:"10";s:9:"animation";s:3:"lfb";s:6:"easing";s:13:"easeInOutQuad";s:5:"split";s:4:"none";s:8:"endsplit";s:4:"none";s:10:"splitdelay";s:2:"10";s:13:"endsplitdelay";s:2:"10";s:11:"2d_origin_x";s:2:"50";s:11:"2d_origin_y";s:2:"50";s:14:"parallax_level";s:1:"2";s:10:"whitespace";s:6:"nowrap";s:12:"static_start";s:1:"1";s:10:"static_end";s:1:"2";s:5:"speed";i:1000;s:9:"align_hor";s:6:"center";s:10:"align_vert";s:6:"middle";s:11:"hiddenunder";b:0;s:8:"resizeme";b:1;s:4:"link";s:0:"";s:12:"link_open_in";s:4:"same";s:10:"link_slide";s:7:"nothing";s:18:"scrollunder_offset";s:0:"";s:5:"style";s:13:"brooklyn-lead";s:4:"time";i:500;s:7:"endtime";s:4:"8700";s:8:"endspeed";i:300;s:12:"endanimation";s:7:"fadeout";s:9:"endeasing";s:7:"nothing";s:11:"corner_left";s:7:"nothing";s:12:"corner_right";s:7:"nothing";s:5:"width";i:884;s:6:"height";i:26;s:6:"serial";s:1:"1";s:12:"endTimeFinal";i:8700;s:13:"endSpeedFinal";i:300;s:11:"realEndTime";i:9000;s:8:"timeLast";i:8500;s:12:"endWithSlide";b:1;s:10:"max_height";s:4:"auto";s:9:"max_width";s:4:"auto";s:11:"2d_rotation";s:0:"";s:3:"alt";s:0:"";s:6:"scaleX";s:0:"";s:6:"scaleY";s:0:"";s:17:"scaleProportional";b:0;s:6:"attrID";s:0:"";s:11:"attrClasses";s:30:"brooklyn-scroll-slider-opacity";s:9:"attrTitle";s:0:"";s:7:"attrRel";s:0:"";s:7:"link_id";s:0:"";s:10:"link_class";s:0:"";s:10:"link_title";s:0:"";s:8:"link_rel";s:0:"";}}}i:1;a:4:{s:2:"id";s:1:"2";s:6:"params";a:42:{s:15:"background_type";s:5:"image";s:5:"image";s:21:"uploads/2014/12/2.jpg";s:8:"image_id";s:2:"86";s:5:"title";s:5:"Slide";s:5:"state";s:9:"published";s:9:"date_from";s:0:"";s:7:"date_to";s:0:"";s:16:"slide_transition";s:4:"fade";s:1:"0";s:6:"Remove";s:11:"slot_amount";i:7;s:19:"transition_rotation";i:0;s:19:"transition_duration";i:800;s:5:"delay";s:0:"";s:16:"save_performance";s:3:"off";s:11:"enable_link";s:5:"false";s:9:"link_type";s:7:"regular";s:4:"link";s:0:"";s:12:"link_open_in";s:4:"same";s:10:"slide_link";s:7:"nothing";s:8:"link_pos";s:5:"front";s:11:"slide_thumb";s:0:"";s:10:"class_attr";s:0:"";s:7:"id_attr";s:0:"";s:9:"attr_attr";s:0:"";s:9:"data_attr";s:0:"";s:14:"slide_bg_color";s:7:"#E7E7E7";s:17:"slide_bg_external";s:0:"";s:6:"bg_fit";s:5:"cover";s:8:"bg_fit_x";s:3:"100";s:8:"bg_fit_y";s:3:"100";s:9:"bg_repeat";s:9:"no-repeat";s:11:"bg_position";s:10:"center top";s:13:"bg_position_x";s:1:"0";s:13:"bg_position_y";s:1:"0";s:17:"bg_end_position_x";s:1:"0";s:17:"bg_end_position_y";s:1:"0";s:15:"bg_end_position";s:10:"center top";s:14:"kenburn_effect";s:3:"off";s:12:"kb_start_fit";s:3:"100";s:10:"kb_end_fit";s:3:"100";s:11:"kb_duration";s:4:"9000";s:9:"kb_easing";s:15:"Linear.easeNone";}s:11:"slide_order";s:1:"2";s:6:"layers";a:2:{i:0;a:71:{s:4:"text";s:53:"Brooklyn will make your life as a Webdesigner easier.";s:4:"type";s:4:"text";s:4:"left";i:0;s:3:"top";i:60;s:14:"loop_animation";s:4:"none";s:11:"loop_easing";s:16:"Power3.easeInOut";s:10:"loop_speed";s:1:"2";s:13:"loop_startdeg";s:3:"-20";s:11:"loop_enddeg";s:2:"20";s:12:"loop_xorigin";s:2:"50";s:12:"loop_yorigin";s:2:"50";s:11:"loop_xstart";s:1:"0";s:9:"loop_xend";s:1:"0";s:11:"loop_ystart";s:1:"0";s:9:"loop_yend";s:1:"0";s:14:"loop_zoomstart";s:1:"1";s:12:"loop_zoomend";s:1:"1";s:10:"loop_angle";s:1:"0";s:11:"loop_radius";s:2:"10";s:9:"animation";s:3:"lfb";s:6:"easing";s:13:"easeInOutQuad";s:5:"split";s:4:"none";s:8:"endsplit";s:4:"none";s:10:"splitdelay";s:2:"10";s:13:"endsplitdelay";s:2:"10";s:11:"2d_origin_x";s:2:"50";s:11:"2d_origin_y";s:2:"50";s:14:"parallax_level";s:1:"2";s:10:"whitespace";s:6:"nowrap";s:12:"static_start";s:1:"1";s:10:"static_end";s:1:"2";s:5:"speed";i:1000;s:9:"align_hor";s:6:"center";s:10:"align_vert";s:6:"middle";s:11:"hiddenunder";b:0;s:8:"resizeme";b:1;s:4:"link";s:0:"";s:12:"link_open_in";s:4:"same";s:10:"link_slide";s:7:"nothing";s:18:"scrollunder_offset";s:0:"";s:5:"style";s:13:"brooklyn-lead";s:4:"time";i:500;s:7:"endtime";s:4:"8700";s:8:"endspeed";i:300;s:12:"endanimation";s:7:"fadeout";s:9:"endeasing";s:7:"nothing";s:11:"corner_left";s:7:"nothing";s:12:"corner_right";s:7:"nothing";s:5:"width";i:608;s:6:"height";i:26;s:6:"serial";s:1:"0";s:12:"endTimeFinal";i:8700;s:13:"endSpeedFinal";i:300;s:11:"realEndTime";i:9000;s:8:"timeLast";i:8500;s:12:"endWithSlide";b:1;s:10:"max_height";s:4:"auto";s:9:"max_width";s:4:"auto";s:11:"2d_rotation";s:0:"";s:3:"alt";s:0:"";s:6:"scaleX";s:0:"";s:6:"scaleY";s:0:"";s:17:"scaleProportional";b:0;s:6:"attrID";s:0:"";s:11:"attrClasses";s:30:"brooklyn-scroll-slider-opacity";s:9:"attrTitle";s:0:"";s:7:"attrRel";s:0:"";s:7:"link_id";s:0:"";s:10:"link_class";s:0:"";s:10:"link_title";s:0:"";s:8:"link_rel";s:0:"";}i:1;a:71:{s:4:"text";s:24:"ONE CLICK DEMO INSTALLER";s:4:"type";s:4:"text";s:4:"left";i:0;s:3:"top";i:0;s:14:"loop_animation";s:4:"none";s:11:"loop_easing";s:16:"Power3.easeInOut";s:10:"loop_speed";s:1:"2";s:13:"loop_startdeg";s:3:"-20";s:11:"loop_enddeg";s:2:"20";s:12:"loop_xorigin";s:2:"50";s:12:"loop_yorigin";s:2:"50";s:11:"loop_xstart";s:1:"0";s:9:"loop_xend";s:1:"0";s:11:"loop_ystart";s:1:"0";s:9:"loop_yend";s:1:"0";s:14:"loop_zoomstart";s:1:"1";s:12:"loop_zoomend";s:1:"1";s:10:"loop_angle";s:1:"0";s:11:"loop_radius";s:2:"10";s:9:"animation";s:3:"lfb";s:6:"easing";s:13:"easeInOutQuad";s:5:"split";s:4:"none";s:8:"endsplit";s:4:"none";s:10:"splitdelay";s:2:"10";s:13:"endsplitdelay";s:2:"10";s:11:"2d_origin_x";s:2:"50";s:11:"2d_origin_y";s:2:"50";s:14:"parallax_level";s:1:"2";s:10:"whitespace";s:6:"nowrap";s:12:"static_start";s:1:"1";s:10:"static_end";s:1:"2";s:5:"speed";i:800;s:9:"align_hor";s:6:"center";s:10:"align_vert";s:6:"middle";s:11:"hiddenunder";b:0;s:8:"resizeme";b:1;s:4:"link";s:0:"";s:12:"link_open_in";s:4:"same";s:10:"link_slide";s:7:"nothing";s:18:"scrollunder_offset";s:0:"";s:5:"style";s:14:"brooklyn-title";s:4:"time";i:500;s:7:"endtime";s:4:"8700";s:8:"endspeed";i:300;s:12:"endanimation";s:7:"fadeout";s:9:"endeasing";s:7:"nothing";s:11:"corner_left";s:7:"nothing";s:12:"corner_right";s:7:"nothing";s:5:"width";i:641;s:6:"height";i:60;s:6:"serial";s:1:"1";s:12:"endTimeFinal";i:8700;s:13:"endSpeedFinal";i:300;s:11:"realEndTime";i:9000;s:8:"timeLast";i:8700;s:12:"endWithSlide";b:1;s:10:"max_height";s:4:"auto";s:9:"max_width";s:4:"auto";s:11:"2d_rotation";s:0:"";s:3:"alt";s:0:"";s:6:"scaleX";s:0:"";s:6:"scaleY";s:0:"";s:17:"scaleProportional";b:0;s:6:"attrID";s:0:"";s:11:"attrClasses";s:30:"brooklyn-scroll-slider-opacity";s:9:"attrTitle";s:0:"";s:7:"attrRel";s:0:"";s:7:"link_id";s:0:"";s:10:"link_class";s:0:"";s:10:"link_title";s:0:"";s:8:"link_rel";s:0:"";}}}i:2;a:4:{s:2:"id";s:1:"3";s:6:"params";a:42:{s:15:"background_type";s:5:"image";s:5:"title";s:5:"Slide";s:5:"state";s:9:"published";s:9:"date_from";s:0:"";s:7:"date_to";s:0:"";s:16:"slide_transition";s:4:"fade";s:1:"0";s:6:"Remove";s:11:"slot_amount";i:7;s:19:"transition_rotation";i:0;s:19:"transition_duration";i:800;s:5:"delay";s:0:"";s:16:"save_performance";s:3:"off";s:11:"enable_link";s:5:"false";s:9:"link_type";s:7:"regular";s:4:"link";s:0:"";s:12:"link_open_in";s:4:"same";s:10:"slide_link";s:7:"nothing";s:8:"link_pos";s:5:"front";s:11:"slide_thumb";s:0:"";s:10:"class_attr";s:0:"";s:7:"id_attr";s:0:"";s:9:"attr_attr";s:0:"";s:9:"data_attr";s:0:"";s:8:"image_id";s:2:"87";s:14:"slide_bg_color";s:7:"#E7E7E7";s:17:"slide_bg_external";s:0:"";s:6:"bg_fit";s:5:"cover";s:8:"bg_fit_x";s:3:"100";s:8:"bg_fit_y";s:3:"100";s:9:"bg_repeat";s:9:"no-repeat";s:11:"bg_position";s:10:"center top";s:13:"bg_position_x";s:1:"0";s:13:"bg_position_y";s:1:"0";s:17:"bg_end_position_x";s:1:"0";s:17:"bg_end_position_y";s:1:"0";s:15:"bg_end_position";s:10:"center top";s:14:"kenburn_effect";s:3:"off";s:12:"kb_start_fit";s:3:"100";s:10:"kb_end_fit";s:3:"100";s:11:"kb_duration";s:4:"9000";s:9:"kb_easing";s:15:"Linear.easeNone";s:5:"image";s:21:"uploads/2014/12/3.jpg";}s:11:"slide_order";s:1:"3";s:6:"layers";a:2:{i:0;a:71:{s:4:"text";s:16:"NO CODING NEEDED";s:4:"type";s:4:"text";s:4:"left";i:0;s:3:"top";i:0;s:14:"loop_animation";s:4:"none";s:11:"loop_easing";s:16:"Power3.easeInOut";s:10:"loop_speed";s:1:"2";s:13:"loop_startdeg";s:3:"-20";s:11:"loop_enddeg";s:2:"20";s:12:"loop_xorigin";s:2:"50";s:12:"loop_yorigin";s:2:"50";s:11:"loop_xstart";s:1:"0";s:9:"loop_xend";s:1:"0";s:11:"loop_ystart";s:1:"0";s:9:"loop_yend";s:1:"0";s:14:"loop_zoomstart";s:1:"1";s:12:"loop_zoomend";s:1:"1";s:10:"loop_angle";s:1:"0";s:11:"loop_radius";s:2:"10";s:9:"animation";s:3:"lfb";s:6:"easing";s:13:"easeInOutQuad";s:5:"split";s:4:"none";s:8:"endsplit";s:4:"none";s:10:"splitdelay";s:2:"10";s:13:"endsplitdelay";s:2:"10";s:11:"2d_origin_x";s:2:"50";s:11:"2d_origin_y";s:2:"50";s:14:"parallax_level";s:1:"2";s:10:"whitespace";s:6:"nowrap";s:12:"static_start";s:1:"1";s:10:"static_end";s:1:"2";s:5:"speed";i:800;s:9:"align_hor";s:6:"center";s:10:"align_vert";s:6:"middle";s:11:"hiddenunder";b:0;s:8:"resizeme";b:1;s:4:"link";s:0:"";s:12:"link_open_in";s:4:"same";s:10:"link_slide";s:7:"nothing";s:18:"scrollunder_offset";s:0:"";s:5:"style";s:14:"brooklyn-title";s:4:"time";i:500;s:7:"endtime";s:4:"8700";s:8:"endspeed";i:300;s:12:"endanimation";s:7:"fadeout";s:9:"endeasing";s:7:"nothing";s:11:"corner_left";s:7:"nothing";s:12:"corner_right";s:7:"nothing";s:5:"width";i:-1;s:6:"height";i:-1;s:6:"serial";s:1:"0";s:12:"endTimeFinal";i:8700;s:13:"endSpeedFinal";i:300;s:11:"realEndTime";i:9000;s:8:"timeLast";i:8500;s:12:"endWithSlide";b:1;s:10:"max_height";s:4:"auto";s:9:"max_width";s:4:"auto";s:11:"2d_rotation";s:0:"";s:3:"alt";s:0:"";s:6:"scaleX";s:0:"";s:6:"scaleY";s:0:"";s:17:"scaleProportional";b:0;s:6:"attrID";s:0:"";s:11:"attrClasses";s:30:"brooklyn-scroll-slider-opacity";s:9:"attrTitle";s:0:"";s:7:"attrRel";s:0:"";s:7:"link_id";s:0:"";s:10:"link_class";s:0:"";s:10:"link_title";s:0:"";s:8:"link_rel";s:0:"";}i:1;a:71:{s:4:"text";s:53:"So you have more time for the stuff of everyday life.";s:4:"type";s:4:"text";s:4:"left";i:0;s:3:"top";i:60;s:14:"loop_animation";s:4:"none";s:11:"loop_easing";s:16:"Power3.easeInOut";s:10:"loop_speed";s:1:"2";s:13:"loop_startdeg";s:3:"-20";s:11:"loop_enddeg";s:2:"20";s:12:"loop_xorigin";s:2:"50";s:12:"loop_yorigin";s:2:"50";s:11:"loop_xstart";s:1:"0";s:9:"loop_xend";s:1:"0";s:11:"loop_ystart";s:1:"0";s:9:"loop_yend";s:1:"0";s:14:"loop_zoomstart";s:1:"1";s:12:"loop_zoomend";s:1:"1";s:10:"loop_angle";s:1:"0";s:11:"loop_radius";s:2:"10";s:9:"animation";s:3:"lfb";s:6:"easing";s:13:"easeInOutQuad";s:5:"split";s:4:"none";s:8:"endsplit";s:4:"none";s:10:"splitdelay";s:2:"10";s:13:"endsplitdelay";s:2:"10";s:11:"2d_origin_x";s:2:"50";s:11:"2d_origin_y";s:2:"50";s:14:"parallax_level";s:1:"2";s:10:"whitespace";s:6:"nowrap";s:12:"static_start";s:1:"1";s:10:"static_end";s:1:"2";s:5:"speed";i:1000;s:9:"align_hor";s:6:"center";s:10:"align_vert";s:6:"middle";s:11:"hiddenunder";b:0;s:8:"resizeme";b:1;s:4:"link";s:0:"";s:12:"link_open_in";s:4:"same";s:10:"link_slide";s:7:"nothing";s:18:"scrollunder_offset";s:0:"";s:5:"style";s:13:"brooklyn-lead";s:4:"time";i:500;s:7:"endtime";s:4:"8700";s:8:"endspeed";i:300;s:12:"endanimation";s:7:"fadeout";s:9:"endeasing";s:7:"nothing";s:11:"corner_left";s:7:"nothing";s:12:"corner_right";s:7:"nothing";s:5:"width";i:-1;s:6:"height";i:-1;s:6:"serial";s:1:"1";s:12:"endTimeFinal";i:8700;s:13:"endSpeedFinal";i:300;s:11:"realEndTime";i:9000;s:8:"timeLast";i:8500;s:12:"endWithSlide";b:1;s:10:"max_height";s:4:"auto";s:9:"max_width";s:4:"auto";s:11:"2d_rotation";s:0:"";s:3:"alt";s:0:"";s:6:"scaleX";s:0:"";s:6:"scaleY";s:0:"";s:17:"scaleProportional";b:0;s:6:"attrID";s:0:"";s:11:"attrClasses";s:30:"brooklyn-scroll-slider-opacity";s:9:"attrTitle";s:0:"";s:7:"attrRel";s:0:"";s:7:"link_id";s:0:"";s:10:"link_class";s:0:"";s:10:"link_title";s:0:"";s:8:"link_rel";s:0:"";}}}i:3;a:4:{s:2:"id";s:1:"4";s:6:"params";a:42:{s:15:"background_type";s:5:"image";s:5:"title";s:5:"Slide";s:5:"state";s:9:"published";s:9:"date_from";s:0:"";s:7:"date_to";s:0:"";s:16:"slide_transition";s:4:"fade";s:1:"0";s:6:"Remove";s:11:"slot_amount";i:7;s:19:"transition_rotation";i:0;s:19:"transition_duration";i:800;s:5:"delay";s:0:"";s:16:"save_performance";s:3:"off";s:11:"enable_link";s:5:"false";s:9:"link_type";s:7:"regular";s:4:"link";s:0:"";s:12:"link_open_in";s:4:"same";s:10:"slide_link";s:7:"nothing";s:8:"link_pos";s:5:"front";s:11:"slide_thumb";s:0:"";s:10:"class_attr";s:0:"";s:7:"id_attr";s:0:"";s:9:"attr_attr";s:0:"";s:9:"data_attr";s:0:"";s:8:"image_id";s:2:"84";s:14:"slide_bg_color";s:7:"#E7E7E7";s:17:"slide_bg_external";s:0:"";s:6:"bg_fit";s:5:"cover";s:8:"bg_fit_x";s:3:"100";s:8:"bg_fit_y";s:3:"100";s:9:"bg_repeat";s:9:"no-repeat";s:11:"bg_position";s:10:"center top";s:13:"bg_position_x";s:1:"0";s:13:"bg_position_y";s:1:"0";s:17:"bg_end_position_x";s:1:"0";s:17:"bg_end_position_y";s:1:"0";s:15:"bg_end_position";s:10:"center top";s:14:"kenburn_effect";s:3:"off";s:12:"kb_start_fit";s:3:"100";s:10:"kb_end_fit";s:3:"100";s:11:"kb_duration";s:4:"9000";s:9:"kb_easing";s:15:"Linear.easeNone";s:5:"image";s:21:"uploads/2014/12/4.jpg";}s:11:"slide_order";s:1:"4";s:6:"layers";a:2:{i:0;a:71:{s:4:"text";s:17:"DEDICATED SUPPORT";s:4:"type";s:4:"text";s:4:"left";i:0;s:3:"top";i:0;s:14:"loop_animation";s:4:"none";s:11:"loop_easing";s:16:"Power3.easeInOut";s:10:"loop_speed";s:1:"2";s:13:"loop_startdeg";s:3:"-20";s:11:"loop_enddeg";s:2:"20";s:12:"loop_xorigin";s:2:"50";s:12:"loop_yorigin";s:2:"50";s:11:"loop_xstart";s:1:"0";s:9:"loop_xend";s:1:"0";s:11:"loop_ystart";s:1:"0";s:9:"loop_yend";s:1:"0";s:14:"loop_zoomstart";s:1:"1";s:12:"loop_zoomend";s:1:"1";s:10:"loop_angle";s:1:"0";s:11:"loop_radius";s:2:"10";s:9:"animation";s:3:"lfb";s:6:"easing";s:13:"easeInOutQuad";s:5:"split";s:4:"none";s:8:"endsplit";s:4:"none";s:10:"splitdelay";s:2:"10";s:13:"endsplitdelay";s:2:"10";s:11:"2d_origin_x";s:2:"50";s:11:"2d_origin_y";s:2:"50";s:14:"parallax_level";s:1:"2";s:10:"whitespace";s:6:"nowrap";s:12:"static_start";s:1:"1";s:10:"static_end";s:1:"2";s:5:"speed";i:800;s:9:"align_hor";s:6:"center";s:10:"align_vert";s:6:"middle";s:11:"hiddenunder";b:0;s:8:"resizeme";b:1;s:4:"link";s:0:"";s:12:"link_open_in";s:4:"same";s:10:"link_slide";s:7:"nothing";s:18:"scrollunder_offset";s:0:"";s:5:"style";s:14:"brooklyn-title";s:4:"time";i:500;s:7:"endtime";s:4:"8700";s:8:"endspeed";i:300;s:12:"endanimation";s:7:"fadeout";s:9:"endeasing";s:7:"nothing";s:11:"corner_left";s:7:"nothing";s:12:"corner_right";s:7:"nothing";s:5:"width";i:-1;s:6:"height";i:-1;s:6:"serial";s:1:"0";s:12:"endTimeFinal";i:8700;s:13:"endSpeedFinal";i:300;s:11:"realEndTime";i:9000;s:8:"timeLast";i:8500;s:12:"endWithSlide";b:1;s:10:"max_height";s:4:"auto";s:9:"max_width";s:4:"auto";s:11:"2d_rotation";s:0:"";s:3:"alt";s:0:"";s:6:"scaleX";s:0:"";s:6:"scaleY";s:0:"";s:17:"scaleProportional";b:0;s:6:"attrID";s:0:"";s:11:"attrClasses";s:30:"brooklyn-scroll-slider-opacity";s:9:"attrTitle";s:0:"";s:7:"attrRel";s:0:"";s:7:"link_id";s:0:"";s:10:"link_class";s:0:"";s:10:"link_title";s:0:"";s:8:"link_rel";s:0:"";}i:1;a:71:{s:4:"text";s:57:"And in case you need help, do not hesitate to contact us!";s:4:"type";s:4:"text";s:4:"left";i:0;s:3:"top";i:60;s:14:"loop_animation";s:4:"none";s:11:"loop_easing";s:16:"Power3.easeInOut";s:10:"loop_speed";s:1:"2";s:13:"loop_startdeg";s:3:"-20";s:11:"loop_enddeg";s:2:"20";s:12:"loop_xorigin";s:2:"50";s:12:"loop_yorigin";s:2:"50";s:11:"loop_xstart";s:1:"0";s:9:"loop_xend";s:1:"0";s:11:"loop_ystart";s:1:"0";s:9:"loop_yend";s:1:"0";s:14:"loop_zoomstart";s:1:"1";s:12:"loop_zoomend";s:1:"1";s:10:"loop_angle";s:1:"0";s:11:"loop_radius";s:2:"10";s:9:"animation";s:3:"lfb";s:6:"easing";s:13:"easeInOutQuad";s:5:"split";s:4:"none";s:8:"endsplit";s:4:"none";s:10:"splitdelay";s:2:"10";s:13:"endsplitdelay";s:2:"10";s:11:"2d_origin_x";s:2:"50";s:11:"2d_origin_y";s:2:"50";s:14:"parallax_level";s:1:"2";s:10:"whitespace";s:6:"nowrap";s:12:"static_start";s:1:"1";s:10:"static_end";s:1:"2";s:5:"speed";i:1000;s:9:"align_hor";s:6:"center";s:10:"align_vert";s:6:"middle";s:11:"hiddenunder";b:0;s:8:"resizeme";b:1;s:4:"link";s:0:"";s:12:"link_open_in";s:4:"same";s:10:"link_slide";s:7:"nothing";s:18:"scrollunder_offset";s:0:"";s:5:"style";s:13:"brooklyn-lead";s:4:"time";i:500;s:7:"endtime";s:4:"8700";s:8:"endspeed";i:300;s:12:"endanimation";s:7:"fadeout";s:9:"endeasing";s:7:"nothing";s:11:"corner_left";s:7:"nothing";s:12:"corner_right";s:7:"nothing";s:5:"width";i:-1;s:6:"height";i:-1;s:6:"serial";s:1:"1";s:12:"endTimeFinal";i:8700;s:13:"endSpeedFinal";i:300;s:11:"realEndTime";i:9000;s:8:"timeLast";i:8500;s:12:"endWithSlide";b:1;s:10:"max_height";s:4:"auto";s:9:"max_width";s:4:"auto";s:11:"2d_rotation";s:0:"";s:3:"alt";s:0:"";s:6:"scaleX";s:0:"";s:6:"scaleY";s:0:"";s:17:"scaleProportional";b:0;s:6:"attrID";s:0:"";s:11:"attrClasses";s:30:"brooklyn-scroll-slider-opacity";s:9:"attrTitle";s:0:"";s:7:"attrRel";s:0:"";s:7:"link_id";s:0:"";s:10:"link_class";s:0:"";s:10:"link_title";s:0:"";s:8:"link_rel";s:0:"";}}}}}

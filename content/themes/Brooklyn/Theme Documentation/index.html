@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Brooklyn WordPress</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="assets/css/docs.css" rel="stylesheet">
+    <link href="assets/js/google-code-prettify/prettify.css" rel="stylesheet">
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+  </head>
+
+  <body data-spy="scroll" data-target=".bs-docs-sidebar">
+
+    <!-- Navbar
+    ================================================== -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="./index.html">Brooklyn WordPress</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li class="">
+                <a href="./index.html">Home</a>
+              </li>
+              </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+<!-- Subhead
+================================================== -->
+<header class="jumbotron subhead">
+  <div class="container">
+    <h1>Brooklyn WordPress</h1>
+  </div>
+</header>
+
+  <div class="container">
+
+    <!-- Docs nav
+    ================================================== -->
+    <div class="row">
+      <div class="span3 bs-docs-sidebar">
+        <ul class="nav nav-list bs-docs-sidenav">
+          <li><a href="#installation"><i class="icon-chevron-right"></i> Installation</a></li>
+          <li><a href="#hooks"><i class="icon-chevron-right"></i> Available Hooks</a></li>
+          <li><a href="#plugins"><i class="icon-chevron-right"></i> Recommended Plugins</a></li>
+          <li><a href="#prepare"><i class="icon-chevron-right"></i> Change Logo and Accentcolor </a></li>
+          <li><a href="#onepage"><i class="icon-chevron-right"></i> One Page Setup</a></li>
+          <li><a href="#creatingposts"><i class="icon-chevron-right"></i> Creating Posts</a></li>
+          <li><a href="#creatingportfolio"><i class="icon-chevron-right"></i> Portfolio Setup</a></li>
+          <li><a href="#translation"><i class="icon-chevron-right"></i> Brooklyn Translation</a></li>
+          <li><a href="#childtheme"><i class="icon-chevron-right"></i> Child Theme </a></li>
+          <li><a href="#needhelp"><i class="icon-chevron-right"></i> Need Help?</a></li>
+        </ul>
+      </div>
+      <div class="span9">
+		
+        
+        <!-- Intro
+        ================================================== -->
+        <section id="installation">
+        
+        <div class="page-header">
+            <h1>Introduction</h1>
+        </div>
+        
+        <p>Thank you for purchasing our theme. We're as excited as you are about the possibilities before you. Finally, its going to be far less complicated to make your Wordpress website pages look and feel the way you want them. We built this theme for everyone. It is perfect for newcomers to creating a Wordpress site. Code is only poetry to people who know what it all means. To everyone else it is a strange and very foreign language. We get that and built everybody's requests right into the front end options. For all our seasoned Wordpress pros, we know how frustrating it can be trying to finish a client's project. We think you're about to discover you can go from start to finish faster than ever and produce a smashing looking site in far less time than you ever thought possible. <strong>Note:</strong> Be sure to refer to the information outlined in the following documentation for the Brooklyn theme while building your new site. We have explained much of what you need to know to create great looking pages easily using the features built into the theme with you in mind. If you cannot locate the answer here, sign up for our support forum. We do not answer support questions on Theme Forest neither via email. </p>
+        <hr />
+        <p>Also take note of our online documentation. It provides further information about the theme, way more than covered by this documentation:
+        <h1><a href="http://faq.unitedthemes.com/brooklyn/">ONLINE DOCUMENTATION</a></h1></p>
+        
+        </section>
+        
+        <hr class="bs-docs-separator">
+        
+        
+        
+        
+        <!-- Installation
+        ================================================== -->
+        <section id="installation">
+          
+          <div class="page-header">
+            <h1>Installation</h1>
+          </div>
+          
+          <p>Before you attempt to upload your theme you must unzip the downloaded folder. Why? The extra files it contains can cause strange issues to occur in your theme's functionality. Only upload the inner zip folder and only install your theme through the Wordpress admin installer located under "Appearance" <i class="icon-arrow-right"></i> "Themes" <i class="icon-arrow-right"></i> "Install".</p>
+
+          <p>If this way to install the theme fails, we recommend to use FTP. Open your FTP client and move to your WordPress installation path. Drag & Drop the "theme" folder into the following path:
+            
+          <code>wp-content/themes/</code>
+          
+          Now go to your Dashboard <i class="icon-arrow-right"></i> Appearance <i class="icon-arrow-right"></i> Theme and activate the theme. </p>
+          
+          <p>You will now recognize a message appearing at the top of the dashboard, advising you to install 3 recommended plugins. It's up to you if you like to install them, but as the name already says, we recommend to use these plugins since they are integrating theme features like shortcodes.</p>
+                    
+       	</section>
+       
+        <hr class="bs-docs-separator">
+       
+       	<!-- Hooks
+       	================================================== -->
+        <section id="hooks">
+          <div class="page-header">
+            <h1>Hooks</h1>
+          </div>
+		    
+            <p>Learn more about hooks here : <a href="http://codex.wordpress.org/Plugin_API/Hooks"> WordPress Hooks </a></p>
+            
+			<table class="table table-striped">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Hook</th>
+                  <th>File</th>
+                  <th>usage</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1</td>
+                  <td>ut_meta_hook</td>
+                  <td>header.php</td>
+                  <td>for use in hooking meta tags</td>
+                </tr>
+                <tr>
+                  <td>2</td>
+                  <td>ut_before_header_hook</td>
+                  <td>header.php</td>
+                  <td>for use in hooking before the header</td>
+                </tr>
+                <tr>
+                  <td>3</td>
+                  <td>ut_before_content_hook</td>
+                  <td>header.php</td>
+                  <td>for use in hooking before the main content</td>
+                </tr>
+                <tr>
+                  <td>4</td>
+                  <td>ut_before_footer_hook</td>
+                  <td>footer.php</td>
+                  <td>for use in hooking before the footer</td>
+                </tr>
+                <tr>
+                  <td>5</td>
+                  <td>ut_after_footer_hook</td>
+                  <td>footer.php</td>
+                  <td>for use in hooking after the footer</td>
+                </tr>
+                <tr>
+                  <td>6</td>
+                  <td>ut_java_footer_hook</td>
+                  <td>footer.php</td>
+                  <td>for use in hooking after the footer ( especially plain javascript without script tags!)</td>
+                </tr>
+              </tbody>
+            </table>
+        </section>
+         
+        <hr class="bs-docs-separator">
+        
+        <!-- Plugins
+        ================================================== -->
+        <section id="plugins">
+        
+          <div class="page-header">
+            <h1>Recommended Plugins</h1>
+          </div>
+        
+          <p>After you have activated our theme you might recognize a message appearing at the top of your dashbaord.</p>
+        	
+          <img src="images/recommended-plugins.jpg" />
+          
+          <p>We highly recommend to install these plugins. This theme definitely work without these plugins, but you will miss some nice features which make the theme experience perfect. Also recommend plugins are :</p>          
+          <ul>
+          	<li><a target="_blank" href="http://wordpress.org/plugins/leaflet-maps-marker/">http://wordpress.org/plugins/leaflet-maps-marker/</a></li>
+          </ul>  
+            
+            
+        </section>
+        
+        <hr class="bs-docs-separator">
+        
+        <!-- Prepare
+        ================================================== -->
+        <section id="prepare">
+        
+          <div class="page-header">
+            <h1> Change Logo and Accentcolor </h1>            
+          </div>
+
+          <p>Since these two options are very basic we decided to move these settings to the theme customizer instead of the theme options panel. And it's way much more comfortable to see the accentcolor change within the live preview instead of switching browser tabs after each color change. Beneath the uncollapsed color picker you can find some nice color presets which you may already have recognized in our live demo.
+          You can find the Customizer under  <i class="icon-arrow-right"></i> Appearance <i class="icon-arrow-right"></i> Customize.</p>
+            
+        </section>
+        
+        <hr class="bs-docs-separator">
+        
+        <!-- One Page Setup
+        ================================================== -->
+        <section id="onepage">
+          
+          <div class="page-header">
+            <h1>Create your One Page</h1>
+          </div>
+          
+          <p class="lead"> Start from Scratch ( recommended step )</p>
+          <p>If you like to use the one click demo installer, please skip this section and browse to the "Start with Demo Importer" section. Setting up the one page system is quite easy, if you follow these steps your individual one page will be ready in no time! After you have followed the theme installation instruction from above we can now start to set up the system. </p> <p>Please go to <code>"Pages"</code> and add 2 new pages. The first page you need to create is your Front Page, so call it "Front Page" or something related. The Page title is only for internal use in this case. The second page you need to create is the blog page, name it "Blog" ( or your desired title ). Publish both pages. Now browse to <code>Settings</code> <i class="icon-arrow-right"></i> <code>Reading</code> and change the setting for <code>Front page displays</code> from <code>Your latest posts</code> into <code>A static page</code>. As you can imagine assign your previously created "Front Page" as the <code>Front Page</code> and your created "Blog" page as the <code>Posts page</code>.</p>
+     	  <br />          
+          <p>Your Settings should now looks like this:</p>
+          <br /><br />
+          <p><img src="images/settings-reading.jpg" alt="Settings Reading" /></p>
+          <br /><br />
+          
+          <p>Now browse to <code>Appearance</code> <i class="icon-arrow-right"></i> <code>Menus</code> and create your main menu. Inside the "Manage Locations" tab you can assign this menu as the primary menu. You do not have to assign a page to this menu yet, we just want to make sure the menu has been set up correctly before we create our first page.</p>
+          <p>Now we can start to add our first section to our front page. Simply browse to <code>Pages</code> <i class="icon-arrow-right"></i> <code>Add new </code>. Beneath the WordPress Editor you will recognize a custom meta box called : <code>Page & Section Setting</code>. This set of option will help you to design the single section on the front page as well as particulary the page itself. </p> <p>But what is a section? Let's take a look at our live demo front page, it's divided into different sections like "About us" or "Our Work" and each section is a page inside the system. And every page you are going to add to the menu, will appear as a section on the front page. If you like to add a page to the front page but you do not want to add it's own menu point, you just need to make this page as a child of an existing section page and the system will automatically add it to the front page. But this topic will be explained later on.</p>
+          
+          <p>Lets start with the "Page Settings". This small set of options will affect the single page as well as the section on the front page. It has only a few options since most features are only available for the front page section. The next graphic will explain you the section header structure</p>
+          
+          <br />
+          <p><img src="images/section-header.jpg" /></p>
+          <br />
+          
+          <div class="alert alert-info"><strong>Tip:</strong> You can add a highlight to the text by simply wrapping it with a simple span , example : &lt;span&gt;my highlight word&lt;/span&gt; </div>
+          
+          <br />
+		  
+          <p>Now we can start to configure the section itself, the set of options in this case is much bigger but you will see, each option can be useful and not each option is mandatory, you don't have to fill each option. The section management is dived into 5 different set of options. Section Settings, Color Settings, Parallax Settings, Overlay Settings and Misc Settings.</p>
+          
+          <p class="lead">Section Settings</p>
+          <p>Not every Section needs a header, just hide it or simply turn it on. By default the section header is activated. Optionally you can also define an individual padding, which will reduce or enlarge the gap between header and the following content. If you leave this field empty, the default value of "50px" will be attached to the header automatically. Sometimes a section needs more or less padding top and padding bottom, by default each sections gets a padding top of 80px and a padding bottom of 40px. We have added the following grahpic to explain the padding behavior.</p>
+          <br />
+          <p><img src="images/section-padding.jpg" /></p>  
+		  <br />
+          <p>The "Section Width" option will define if the section itself will be a centered section or a fullwidth section. Basically the centered version which has a maximum width of 1200 pixel, and will be the best choice if you are going to present regular content, such as text or service boxes. The fullwidth section on the other hand is ideal for portfolios or google maps for example. </p>
+          
+          <p class="lead">Color Settings</p>
+          <p>The theme already comes with a default colorset, but as you can imagine this set can't cover all combinations of dark , light or colored backgrounds. That's why we have added the custom color fields inside this setting section <strong>Note: </strong>Keep in mind that all settings inside this set of options are optional. Please insert only HEX colors if you are not using the colorpicker.</p>
+          
+          <p class="lead">Parallax Settings</p>
+          <p>Within this option set you can activate or deactive the parallax effect for the uploaded background image. Regarding to the section width and height it might be necessary to play a bit with the dimension of the image you are going to upload, but a good default size to start with is 1600x900. </p>
+                    
+          <p class="lead">Overlay Settings</p>
+          <p>This overlay will we displayed behind the content but in front of the background image, depending on which color you choose and if you decide to activate the pattern, you can create simple but stunning image effects.</p>
+          
+          <p class="lead">Misc Settings</p>
+          <p>In very few cases you may need to add some custom css. That's why we have added the custom class field. Inside this field you can insert your desired class ( or different classes by sepearting them with commas ) and these classes will be apllied to the outer div of the section.</p>
+          
+          <p class="lead">Make the new page visible on the front page</p>
+          <p>After publishing the page you just need to assign this page to the main menu which you have created earlier. While adding the page to the menu, you can define if the new menu point will lead to a section or a page, means if you choose section it will create section on the front page and choosing page will just create a menu point which link to the single page.</p>
+          <br />
+          <p><img src="images/menu-type.jpg" /></p>  
+		  <br />
+          
+          <p class="lead">Managing the contact section</p>
+          <div class="alert alert-info"><strong>Keep in mind:</strong> The contact section you might have noticed in our live demos is completly part of the Theme Options Panel under <code>Appearance</code> since it will be display on all pages and posts.</div>
+            
+        <hr class="bs-docs-separator">
+          
+          <p class="lead"> Start with Demo Importer </p>
+		  <p> With version 2.2 of Brooklyn we have added the brand new wordpress demo importer. You can find the demo importer under "Appearance" -> "Demo Importer". It's an easy one click installer. Before you attempt to run this importer please make sure:</p>	
+          <ul>
+          	<li>You are running a clean WordPress Installation</li>
+            <li>No Pages or Posts are published ( delete the standard posts and pages too )</li>
+            <li>All Plugin which the theme recommends need to be installed</li>
+            <li>Make sure that the wp-content folder is writeable ( the script needs tocreate the upload folder if it doesnt exists already )</li>
+         </ul>
+          
+          
+        </section>
+                
+        <hr class="bs-docs-separator">
+        
+        <!-- Post Formats
+        ================================================== -->
+        <section id="creatingposts">
+          
+          <div class="page-header">
+            <h1>Creating Posts</h1>
+          </div>
+          
+          <p> Brooklyn supports the following post formats: </p>
+          <ul>
+          	<li>Standard</li>
+            <li>Image</li>
+            <li>Video</li>
+            <li>Link</li>
+            <li>Quote</li>
+          </ul>
+          <p>Learn more about post formats : <a href="http://codex.wordpress.org/Post_Formats">WordPress Post Formats</a></p>
+          
+        </section>
+        
+        <hr class="bs-docs-separator">
+		
+        
+        <!-- Portfolio Setup
+        ================================================== -->
+        <section id="creatingportfolio">
+          
+          <div class="page-header">
+            <h1>Portfolio Setup</h1>
+          </div>
+          <p>Setting up the portfolio is quite easy and it requires only a few steps to set it up. Of course you need to install the "UnitedThemes Portfolio" plugin in this case ( if you have not done it already ). Within the first step we recommend to create the portfolio categories first. This will make sure everything is right there when you need it. But what are portfolio categories? Let's take a look at the following example. Imagine you are a photographer and you have a wide range of images you like to show to the crowd. Inside your portfolio you have landscape and portrait images, than these both would be exactly your categories. Categories are mainly used for filtering your portfolio items later on.</p>
+          <p>Now you can start adding your first portfolio item. Go to <code>Portfolio</code> <i class="icon-arrow-right"></i> <code>Add new</code>. Basically there is not big difference to a regular blog post, all elements like featured image, post format and the WordPress Editor are in the same place. Currently the portfolio supports the following post formats:</p>
+          <br />
+          <ul>
+          	<li>Standard</li>
+            <li>Video</li>
+            <li>Gallery</li>
+          </ul>
+          <br />
+          <p>And these portfolio posts formats are handeled exactly the same way as blog post formats, with one exception, you need to set a featured image for all kind of post formats. These images are used inside the portfolio overview. </p>
+          <p>After you have created your first portfolio items, we can now set up the portfolio overview. Please go to <code>Portfolio</code> <i class="icon-arrow-right"></i> <code>Showcase</code> and hit <code>Add new</code>. You will be redirected to a portfolio showcase configuration page. All Option are selfexplanatory, but we highly recommend to make active use of the image cropping if you are using high resolution pictures. After you have made all your settings, simply save the new showcase any copy the portfolio showcase shortcode from the upper right corner. You can now place this shortcode inside the WordPress Editor no matter if you are editing a post or page.</p>
+          
+        </section>
+        
+        <hr class="bs-docs-separator">
+
+        
+        <!-- Translation
+        ================================================== -->
+        <section id="translation">
+          <div class="page-header">
+            <h1>Translation</h1>
+          </div>
+			<p class="lead">Brooklyn is fully translation ready.</p>
+            <p> To start the translation we recommend to use the following plugin Codestyling Localization to be installed in your Wordpress. </p>
+			<p> After activating the plugin go to: </p>
+
+                <ul>
+                	<li>Tools</li>
+                    <li>Localization</li>
+                    <li>find: Brooklyn Theme</li>
+                    <li>choose: Add New Language</li>
+                    <li>choose Language</li>
+                    <li>create po-file</li>
+                    <li>do a "rescan"</li>
+				</ul>
+            
+            <div class="alert alert-info"> We constantly develop new features and releasing new Updates for this theme. After downloading the latest Version we recommend to push the "rescan" button and fill out the new items. </div>
+            
+            <p> Afterwards we recommend to use one of the following plugins to translate your page and posts. </p>
+            
+            <p> <a href="http://wpml.org/">http://wpml.org/</a> </p>
+          
+        </section> 
+        
+        
+        <hr class="bs-docs-separator">
+
+        <!-- Child Theme
+        ================================================== -->
+        <section id="childtheme">
+          
+          <div class="page-header">
+          	<h1>Child Theme</h1>
+          </div>
+
+          <p>Brooklyn is fully child theme compatible. We have attached a basic child theme to the download package which contains the minimum of required files. If you are planing any code customisations we highly recommend to do this inside the child theme! Learn more about child themes <a href="http://codex.wordpress.org/Child_Themes">here</a></p>
+          <p>For minor CSS changes you can also make use of the Custom CSS field inside the Theme Options Panel. A very simple and mighty tool. The advantage of this technique is quite simple. If you are running a theme update this data is stored inside the database and does not gets overwritten with the next update!</p>
+          
+        </section> 
+        
+        
+        <hr class="bs-docs-separator">
+
+        <!-- Need Help?
+        ================================================== -->
+        <section id="needhelp">
+          
+          <div class="page-header">
+            <h1>Need Help?</h1>
+          </div>
+          
+			<p>If you need help, please do not hesitate to contact us! To grant best support we set up a support forum at <a href="http://helpdesk.unitedthemes.com/">Help Desk</a>. Channeling all requests at one place keeps and makes it simple, easier and even more effective for every customers to get quick help. All issues, requests and questions can be discussed and answered at one place. Please note, you will only get access to our forums with a valid purchase key!
+			<br />Each of our themes is a final version when offered for sale to you. If you've got some issues - we gladly help you out. Please Note! We cannot make radical changes without compensation.</p>
+          	
+            
+        </section> 
+        
+        
+
+      </div>
+    </div>
+  </div>
+
+
+
+    <!-- Footer
+    ================================================== -->
+    <footer class="footer">
+      <div class="container">
+        <p>Brought to you by <a href="http://unitedthemes.com/" target="_blank">United Themes</a></p>
+      </div>
+    </footer>
+
+
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/bootstrap-transition.js"></script>
+    <script src="assets/js/bootstrap-alert.js"></script>
+    <script src="assets/js/bootstrap-modal.js"></script>
+    <script src="assets/js/bootstrap-dropdown.js"></script>
+    <script src="assets/js/bootstrap-scrollspy.js"></script>
+    <script src="assets/js/bootstrap-tab.js"></script>
+    <script src="assets/js/bootstrap-tooltip.js"></script>
+    <script src="assets/js/bootstrap-popover.js"></script>
+    <script src="assets/js/bootstrap-button.js"></script>
+    <script src="assets/js/bootstrap-collapse.js"></script>
+    <script src="assets/js/bootstrap-carousel.js"></script>
+    <script src="assets/js/bootstrap-typeahead.js"></script>
+    <script src="assets/js/bootstrap-affix.js"></script>
+
+    <script src="assets/js/holder/holder.js"></script>
+    <script src="assets/js/google-code-prettify/prettify.js"></script>
+
+    <script src="assets/js/application.js"></script>
+
+
+
+  </body>
+</html>
