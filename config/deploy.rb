@@ -71,7 +71,7 @@ Disallow: /')
   desc "symlinks WordPress template files"
   task :create_template_files do
     on roles(:app) do
-      execute :ln, "-nfs #{shared_path}/psd.zip #{release_path}/content/themes/Avada/Avada_Full_Package/"
+      execute :ln, "-nfs #{shared_path}/psd.zip #{release_path}/content/themes/Avada_Full_Package/"
     end
   end
 
@@ -85,7 +85,6 @@ Disallow: /')
 
   after :finished, :create_robots
   after :create_robots, :create_template_files
-  after :create_template_files, :unzip_wp_themes
   after :finishing, "deploy:cleanup"
 
 end
