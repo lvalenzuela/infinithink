@@ -85,6 +85,7 @@ Disallow: /')
 
   after :finished, :create_robots
   after :create_robots, :create_template_files
+  after :create_template_files, :unzip_wp_themes
   after :finishing, "deploy:cleanup"
 
 end
