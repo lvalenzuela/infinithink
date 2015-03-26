@@ -68,23 +68,7 @@ Disallow: /')
   	end
   end
 
-  desc "symlinks WordPress template files"
-  task :create_template_files do
-    on roles(:app) do
-      execute :ln, "-nfs #{shared_path}/psd.zip #{release_path}/content/themes/Avada_Full_Package/"
-    end
-  end
-
-  desc "unzip WordPress Template Files"
-  task :unzip_wp_themes do
-    on roles(:app) do
-      execute :unzip, "#{release_path}/content/themes/Avada/Avada_Full_Package/Avada\ Theme/Avada.zip"
-      execute :unzip, "#{release_path}/content/themes/Avada/Avada_Full_Package/Avada\ Theme/Avada-Child-Theme.zip"
-    end
-  end
-
   after :finished, :create_robots
-  after :create_robots, :create_template_files
   after :finishing, "deploy:cleanup"
 
 end

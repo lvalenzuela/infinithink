@@ -1,0 +1,4035 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fusion Core\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-12-01 16:24+0500\n"
+"Last-Translator: Haris <info@theme-fusion.com>\n"
+"Language-Team: ThemeFusion\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /Users/muhammadharis/Dropbox/projects/avada/wp-content/"
+"plugins/fusion-core\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Fusion Slider Shortcode"
+msgstr ""
+
+msgid "Youtube Shortcode"
+msgstr ""
+
+msgid ""
+"For example the Video ID for <br />http://www.youtube.com/LOfeCR7KqUs is "
+"LOfeCR7KqUs"
+msgstr ""
+
+msgid "Woocommerce Products Slider Shortcode"
+msgstr ""
+
+msgid "Woocommerce Featured Products Slider Shortcode"
+msgstr ""
+
+msgid ""
+"No settings required. Insert the shortcode and your featured products will "
+"be pulled. Featured products are products that you have \"Starred\" in the "
+"WooCommerce settings. To set featured products, please see this post,<br /"
+"><a href=\"http://theme-fusion.com/knowledgebase/how-to-use-woocommerce-"
+"featured-products-slider/\" target=\"_blank\">Knowledge Base Article for "
+"Featured Products</a>"
+msgstr ""
+
+msgid "Vimeo Shortcode"
+msgstr ""
+
+msgid "In pixels but enter a number, ex: 350"
+msgstr ""
+
+msgid ""
+"For example the Video ID for <br />https://vimeo.com/75230326 is 75230326"
+msgstr ""
+
+msgid "Tooltip Shortcode"
+msgstr ""
+
+msgid "Insert the text that will activate the tooltip hover"
+msgstr ""
+
+msgid "Choose action to trigger the tooltip."
+msgstr ""
+
+msgid "Tooltip Trigger"
+msgstr ""
+
+msgid "Choose the display position."
+msgstr ""
+
+msgid "Tooltip Position"
+msgstr ""
+
+msgid "Insert the text that displays in the tooltip"
+msgstr ""
+
+msgid "Tooltip Text"
+msgstr ""
+
+msgid "Add Toggle"
+msgstr ""
+
+msgid "Insert Toggles Shortcode"
+msgstr ""
+
+msgid "Controls the separator color.  Leave blank for theme option selection."
+msgstr ""
+
+msgid "Choose the style of the title separator."
+msgstr ""
+
+msgid "Separator Style"
+msgstr ""
+
+msgid "Add Testimonial"
+msgstr ""
+
+msgid "Insert Testimonials Shortcode"
+msgstr ""
+
+msgid "Insert Tagline Box Shortcode"
+msgstr ""
+
+msgid "Choose the button color <br />Default uses theme option selection"
+msgstr ""
+
+msgid "Add Tab"
+msgstr ""
+
+msgid "Insert Tab Shortcode"
+msgstr ""
+
+msgid ""
+"Controls the background tab color.  Leave blank for theme option selection."
+msgstr ""
+
+msgid "Table Shortcode"
+msgstr ""
+
+msgid "Social Links Shortcode"
+msgstr ""
+
+msgid ""
+"Add the url of where the image will link to. If lightbox option is enabled,"
+"and you don't add the full image link, lightbox will open slide image"
+msgstr ""
+
+msgid ""
+"Click the Youtube or Vimeo Shortcode button below then enter your unique "
+"video ID, or copy and paste your video embed code.<a href='[youtube id="
+"\"Enter video ID (eg. Wq4Y7ztznKc)\" width=\"600\" height=\"350\"]' class="
+"\"fusion-shortcodes-button fusion-add-video-shortcode\">Insert Youtube "
+"Shortcode</a><a href='[vimeo id=\"Enter video ID (eg. 10145153)\" width="
+"\"600\" height=\"350\"]' class=\"fusion-shortcodes-button fusion-add-video-"
+"shortcode\">Insert Vimeo Shortcode</a>"
+msgstr ""
+
+msgid "Slider Shortcode"
+msgstr ""
+
+msgid "Width and Height in percentage (%) or pixels (px)"
+msgstr ""
+
+msgid "Image Size (Width/Height)"
+msgstr ""
+
+msgid "Sharing Box Shortcode"
+msgstr ""
+
+msgid ""
+"Specify the color of social icons. Use one for all or separate by | "
+"symbol. \n"
+"ex: #AA0000|#00AA00|#0000AA. Leave blank for theme option selection."
+msgstr ""
+
+msgid "The link that will be shared"
+msgstr ""
+
+msgid "Separator Shortcode"
+msgstr ""
+
+msgid "Spacing below the separator. In pixels. Use a number without px."
+msgstr ""
+
+msgid "Spacing above the separator. In pixels. Use a number without px."
+msgstr ""
+
+msgid "Section Separator Shortcode"
+msgstr ""
+
+msgid "Recent Works Shortcode"
+msgstr ""
+
+msgid "Recent Posts Shortcode"
+msgstr ""
+
+msgid "Progress Bar Shortcode"
+msgstr ""
+
+msgid "Pricing Table Shortcode"
+msgstr ""
+
+msgid "Controls the divider color. Leave blank for theme option selection."
+msgstr ""
+
+msgid "Popover Shortcode"
+msgstr ""
+
+msgid "Content that will trigger the popover."
+msgstr ""
+
+msgid "Triggering Content"
+msgstr ""
+
+msgid ""
+"Choose the display position of the popover. Choose default for theme option "
+"selection."
+msgstr ""
+
+msgid "Popover Position"
+msgstr ""
+
+msgid "Hover"
+msgstr ""
+
+msgid "Click"
+msgstr ""
+
+msgid "Choose mouse action to trigger popover."
+msgstr ""
+
+msgid "Popover Trigger Method"
+msgstr ""
+
+msgid ""
+"Controls all the text color inside the popover box. Leave blank for theme "
+"option selection."
+msgstr ""
+
+msgid "Popover Text Color"
+msgstr ""
+
+msgid ""
+"Controls the border color of the of the popover box. Leave blank for theme "
+"option selection."
+msgstr ""
+
+msgid "Popover Border Color"
+msgstr ""
+
+msgid ""
+"Controls the background color of the popover content area. Leave blank for "
+"theme option selection."
+msgstr ""
+
+msgid "Popover Content Background Color"
+msgstr ""
+
+msgid "Text to be displayed inside the popover."
+msgstr ""
+
+msgid "Contents Inside Popover"
+msgstr ""
+
+msgid ""
+"Controls the background color of the popover heading. Leave blank for theme "
+"option selection."
+msgstr ""
+
+msgid "Popover Heading Background Color"
+msgstr ""
+
+msgid "Heading text of the popover."
+msgstr ""
+
+msgid "Popover Heading"
+msgstr ""
+
+msgid "Person Shortcode"
+msgstr ""
+
+msgid "Insert your custom vk link"
+msgstr ""
+
+msgid "Insert your custom soundcloud link"
+msgstr ""
+
+msgid "Insert your custom dropbox link"
+msgstr ""
+
+msgid "Insert your custom paypal link"
+msgstr ""
+
+msgid ""
+"Specify the box color of social icons. Use one for all or separate by | "
+"symbol. \n"
+"ex: #AA0000|#00AA00|#0000AA. Leave blank for theme option selection."
+msgstr ""
+
+msgid ""
+"Specify the color of social icons. Use one for all or separate by | "
+"symbol. \n"
+"ex: #AA0000|#00AA00|#0000AA.  Leave blank for theme option selection."
+msgstr ""
+
+msgid "Picture Style color"
+msgstr ""
+
+msgid "Selected the style type for the picture,"
+msgstr ""
+
+msgid "One Page Text Link Shortcode"
+msgstr ""
+
+msgid ""
+"Insert text or HTML code here (e.g: HTML for image). This content will be "
+"used to trigger the scrolling to the anchor."
+msgstr ""
+
+msgid "Unique identifier of the anchor to scroll to on click."
+msgstr ""
+
+msgid "Name Of Anchor"
+msgstr ""
+
+msgid "Modal Text Link Shortcode"
+msgstr ""
+
+msgid ""
+"Insert text or HTML code here (e.g: HTML for image). This content will be "
+"used to trigger the modal popup."
+msgstr ""
+
+msgid "Text or HTML code"
+msgstr ""
+
+msgid "Unique identifier of the modal to open on click."
+msgstr ""
+
+msgid "Modal Shortcode"
+msgstr ""
+
+msgid "Menu Anchor Shortcode"
+msgstr ""
+
+msgid "Lightbox Shortcode"
+msgstr ""
+
+msgid "Image Frame Shortcode"
+msgstr ""
+
+msgid "_self = open in same window <br />_blank = open in new window"
+msgstr ""
+
+msgid "Image Carousel Shortcode"
+msgstr ""
+
+msgid "Highlight Shortcode"
+msgstr ""
+
+msgid "Add your content to be highlighted"
+msgstr ""
+
+msgid "Content to Higlight"
+msgstr ""
+
+msgid "Choose to have rounded edges."
+msgstr ""
+
+msgid "Highlight With Round Edges"
+msgstr ""
+
+msgid "Pick a highlight color"
+msgstr ""
+
+msgid "Highlight Color"
+msgstr ""
+
+msgid "Google Map Shortcode"
+msgstr ""
+
+msgid ""
+"Add address to the location which will show up on map. For multiple "
+"addresses, separate addresses by using the | symbol. <br />ex: Address 1|"
+"Address 2|Address 3"
+msgstr ""
+
+msgid "Select the Map Styling"
+msgstr ""
+
+msgid "Display or hide the tooltip when the map first loads."
+msgstr ""
+
+msgid "Displays pan control button."
+msgstr ""
+
+msgid "Display the map scale."
+msgstr ""
+
+msgid "Enable zooming using a mouse's scroll wheel."
+msgstr ""
+
+msgid "Select the type of google map to display."
+msgstr ""
+
+msgid "Fullwidth Shortcode"
+msgstr ""
+
+msgid "Add content"
+msgstr ""
+
+# 'label' => __( '100% Interior Content Width', 'fusion-core' ),
+# 'desc' => __('Select if the interior content is contained to site width or 100% width. Selecting "Yes" will remove left/right padding.', 'fusion-core'),
+# 'options' => array(
+# wpml-name: b0dc5a65e3e35239f086213f39ee7767
+msgid ""
+"Select if the interior content is contained to site width or 100% width. "
+"Selecting \"Yes\" will remove left/right padding."
+msgstr ""
+
+# 'label' => __( 'Video MP4 Upload', 'fusion-core' ),
+# 'desc' => __('Video must be in a 16:9 aspect ratio. Add your MP4 video file. MP4 and WebM format must be included to render your video with cross browser compatibility. OGV is optional.', 'fusion-core'),
+# ),
+# wpml-name: 982df9ef11d3678b4ed7f9b17ef45901
+msgid ""
+"Video must be in a 16:9 aspect ratio. Add your MP4 video file. MP4 and WebM "
+"format must be included to render your video with cross browser "
+"compatibility. OGV is optional."
+msgstr ""
+
+msgid "Controls the background color.  Leave blank for theme option selection."
+msgstr ""
+
+msgid "Font Awesome Shortcode"
+msgstr ""
+
+msgid "Select the size of the icon."
+msgstr ""
+
+msgid "Choose to display the icon in a circle."
+msgstr ""
+
+msgid ""
+"Choose the radius of the flip box. In pixels (px), ex: 1px, or \"round\".  "
+"Leave blank for theme option selection."
+msgstr ""
+
+msgid "BorderRadius"
+msgstr ""
+
+msgid "Flip Boxes Shortcode"
+msgstr ""
+
+msgid "Post Slider Shortcode"
+msgstr ""
+
+msgid "Dropcap Shortcode"
+msgstr ""
+
+msgid ""
+"Choose the radius of the boxed dropcap. In pixels (px), ex: 1px, or \"round"
+"\"."
+msgstr ""
+
+msgid "Box Radius"
+msgstr ""
+
+msgid "Choose to get a boxed dropcap."
+msgstr ""
+
+msgid "Boxed Dropcap"
+msgstr ""
+
+msgid ""
+"Controls the color of the dropcap letter. Leave blank for theme option "
+"selection."
+msgstr ""
+
+msgid "Add the letter to be used as dropcap"
+msgstr ""
+
+msgid "Dropcap Letter"
+msgstr ""
+
+msgid "Counters Circle Shortcode"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Counters Box Shortcode"
+msgstr ""
+
+# 'label' => __( 'Counter Box Title Font Size (px)', 'fusion-core' ),
+# 'desc' => __( 'Controls the size of the title font used for the counter value. Enter the font size without \'px\'. Default is 50. Leave blank for theme option styling.', 'fusion-core')
+# ),
+# wpml-name: 475c517c582f32c7161ec0fc71a7f90d
+msgid ""
+"Controls the size of the title font used for the counter value. Enter the "
+"font size without 'px'. Default is 50. Leave blank for theme option styling."
+msgstr ""
+
+# 'type' => 'select',
+# 'label' => __( 'Icon alignment', 'fusion-core' ),
+# 'desc' => __( 'Works with "Icon beside Title and Content aligned with Title" and and "Icon Beside Title" layout options.', 'fusion-core' ),
+# wpml-name: ecb9f6c1133d60d094268f3f9f55de05
+msgid "Icon alignment"
+msgstr ""
+
+# 'label' => __( 'Icon circle size', 'fusion-core' ),
+# 'desc' => __( 'Size of icon circle.', 'fusion-core' ),
+# 'options' => array(
+# wpml-name: dea039bbc9cf5f7bf4f5a84427f5ec06
+msgid "Size of icon circle."
+msgstr ""
+
+# 'label' => __( 'Icon circle size', 'fusion-core' ),
+# 'desc' => __( 'Size of icon circle.', 'fusion-core' ),
+# 'options' => array(
+# wpml-name: d10580e5fd9447b140131b5e888be0cb
+msgid "Icon circle size"
+msgstr ""
+
+msgid "Content Boxes Shortcode"
+msgstr ""
+
+msgid "Add Column"
+msgstr ""
+
+msgid "Insert the column content"
+msgstr ""
+
+msgid "Column Content"
+msgstr ""
+
+msgid ""
+"Choose if the column is last in a set. This has to be set to \"Yes\" for the "
+"last column in a set"
+msgstr ""
+
+msgid "Five Sixth"
+msgstr ""
+
+msgid "One Sixth"
+msgstr ""
+
+msgid "Four Fifth"
+msgstr ""
+
+msgid "Three Fifth"
+msgstr ""
+
+msgid "Two Fifth"
+msgstr ""
+
+msgid "One Fifth"
+msgstr ""
+
+msgid "Three Fourth"
+msgstr ""
+
+msgid "One Fourth"
+msgstr ""
+
+msgid "Two Thirds"
+msgstr ""
+
+msgid "One Third"
+msgstr ""
+
+msgid "One Half"
+msgstr ""
+
+msgid "Select the width of the column"
+msgstr ""
+
+msgid "Column Type"
+msgstr ""
+
+msgid "Insert Columns Shortcode"
+msgstr ""
+
+msgid "_self = open in same window <br /> _blank = open in new window"
+msgstr ""
+
+msgid "Add the url to client's website <br />ex: http://example.com"
+msgstr ""
+
+msgid "Client Slider Shortcode"
+msgstr ""
+
+msgid ""
+"fixed = width and height will be fixed <br />auto = width and height will "
+"adjust to the image."
+msgstr ""
+
+msgid "Checklist Shortcode"
+msgstr ""
+
+msgid "Button Shortcode"
+msgstr ""
+
+msgid ""
+"Custom setting only. In pixels (px), ex: 1px.  Leave blank for theme option "
+"selection."
+msgstr ""
+
+msgid "Custom setting only. Set the bevel color of 3D buttons."
+msgstr ""
+
+msgid "Add the text that will display in the button."
+msgstr ""
+
+msgid "Button Title Attribute"
+msgstr ""
+
+msgid "_self = open in same window <br />_blank = open in new window."
+msgstr ""
+
+msgid "Add the button's url ex: http://example.com."
+msgstr ""
+
+msgid "Blog Shortcode"
+msgstr ""
+
+msgid "Select whether to display the grid layout in 2, 3 or 4 column."
+msgstr ""
+
+msgid ""
+"Controls the excerpt length based on words or characters that is set in "
+"Theme Options > Extra."
+msgstr ""
+
+msgid "Alert Shortcode"
+msgstr ""
+
+msgid "Up"
+msgstr ""
+
+msgid "Down"
+msgstr ""
+
+msgid "Slide"
+msgstr ""
+
+msgid "Shake"
+msgstr ""
+
+msgid "Flash"
+msgstr ""
+
+msgid "Fade"
+msgstr ""
+
+msgid "Bounce"
+msgstr ""
+
+msgid "Custom setting only. For custom alert boxes. In pixels (px), ex: 1px."
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Learn More"
+msgstr ""
+
+msgid "View Project"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Unable to contact Google API service."
+msgstr ""
+
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+
+msgid "Invalid request. Did you enter an address?"
+msgstr ""
+
+msgid "No location found for the entered address."
+msgstr ""
+
+msgid "Read More"
+msgstr ""
+
+msgid "Tags:"
+msgstr ""
+
+msgid "%"
+msgstr ""
+
+msgid "1"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "1 Comment"
+msgstr ""
+
+msgid "0 Comments"
+msgstr ""
+
+msgid "View all posts in %s"
+msgstr ""
+
+msgid "Categories:"
+msgstr ""
+
+msgid "By"
+msgstr ""
+
+#
+# <p class="submit"><input type="submit" class="button" value="<?php esc_attr_e( 'Submit', 'wordpress-importer' ); ?>" /></p>
+# </form>
+# wpml-name: a4d3b161ce1309df1c4e25df28694b7b
+msgid "Submit"
+msgstr ""
+
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+msgid "assign posts to an existing user:"
+msgstr ""
+
+msgid "as a new user:"
+msgstr ""
+
+msgid "or create new user with login name:"
+msgstr ""
+
+msgid "Import author:"
+msgstr ""
+
+msgid "Download and import file attachments"
+msgstr ""
+
+msgid "Import Attachments"
+msgstr ""
+
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+msgid "Assign Authors"
+msgstr ""
+
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+msgid "Import WordPress"
+msgstr ""
+
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+msgid "Zero size file downloaded"
+msgstr ""
+
+msgid "Remote file is incorrect size"
+msgstr ""
+
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+msgid "Remote server did not respond"
+msgstr ""
+
+msgid "Invalid file type"
+msgstr ""
+
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+msgid "Failed to import %s %s"
+msgstr ""
+
+msgid "Failed to import post tag %s"
+msgstr ""
+
+msgid "Failed to import category %s"
+msgstr ""
+
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+msgid "- Select -"
+msgstr ""
+
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+msgid "Have fun!"
+msgstr ""
+
+msgid "All done."
+msgstr ""
+
+msgid "The file does not exist, please try again."
+msgstr ""
+
+msgid "Sorry, there has been an error."
+msgstr ""
+
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+# 'labels' => array(
+# 'name'				=> _x( 'Fusion Sliders', 'Post Type General Name', 'fusion-core' ),
+# 'singular_name'	   => _x( 'Fusion Slider', 'Post Type Singular Name', 'fusion-core' ),
+# wpml-name: Post Type General Name: Fusion Sliders
+msgid "Fusion Sliders"
+msgstr ""
+
+msgid "Choose a file from your computer:"
+msgstr ""
+
+msgid "Export All Sliders"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "Export and Import Fusion Sliders"
+msgstr ""
+
+msgid ""
+"Controls the speed of the slide transition from slide to slide. 1000 = 1 "
+"second."
+msgstr ""
+
+msgid "Controls the speed of the slideshow. 1000 = 1 second."
+msgstr ""
+
+msgid "Slideshow Speed"
+msgstr ""
+
+msgid "The type of animation when slides rotate."
+msgstr ""
+
+msgid "Animation"
+msgstr ""
+
+msgid "Check this box to have the slider loop infinitely."
+msgstr ""
+
+msgid "Slide Loop"
+msgstr ""
+
+msgid "Check this box to autoplay the slides."
+msgstr ""
+
+msgid "Check this box to display the pagination circles."
+msgstr ""
+
+msgid "Display Pagination Circles"
+msgstr ""
+
+msgid "Check this box to display the navigation arrows."
+msgstr ""
+
+msgid "Display Navigation Arrows"
+msgstr ""
+
+msgid ""
+"Check this box to have a parallax scrolling effect, this ONLY works when "
+"assigning the slider in page options. It does not work when using a slider "
+"shortcode. With this option enabled, the slider height you input will not be "
+"exact due to n\"egative margin which is based off the overall header size. "
+"ex: 500px will show as 415px. Please adjust accordingly."
+msgstr ""
+
+msgid "Parallax Scrolling Effect"
+msgstr ""
+
+msgid "Check this option if you want full width and height of the screen."
+msgstr ""
+
+msgid "Full Screen Slider"
+msgstr ""
+
+msgid "In pixels, ex: 500px."
+msgstr ""
+
+msgid "Slider Height"
+msgstr ""
+
+msgid ""
+"In pixels or percentage, ex: 100% for full width, 940px for fixed width."
+msgstr ""
+
+msgid "Slider Width"
+msgstr ""
+
+msgid "Export / Import"
+msgstr ""
+
+msgid "Choose from the most used sliders"
+msgstr ""
+
+msgid "Add or remove sliders"
+msgstr ""
+
+msgid "Search Sliders"
+msgstr ""
+
+msgid "Separate sliders with commas"
+msgstr ""
+
+msgid "Update Slider"
+msgstr ""
+
+msgid "Edit Slider"
+msgstr ""
+
+msgid "Add Slider"
+msgstr ""
+
+msgid "New Slider Name"
+msgstr ""
+
+msgid "Parent Slider:"
+msgstr ""
+
+msgid "All Sliders"
+msgstr ""
+
+msgid "Add or Edit Sliders"
+msgstr ""
+
+msgid "Sliders"
+msgstr ""
+
+# 'name'					   => _x( 'Groups', 'Taxonomy General Name', 'fusion-core' ),
+# 'singular_name'			  => _x( 'Group', 'Taxonomy Singular Name', 'fusion-core' ),
+# 'menu_name'				  => __( 'Add or Edit Groups', 'fusion-core' ),
+# wpml-name: Taxonomy Singular Name: Group
+msgid "Group"
+msgstr ""
+
+# 'labels' => array(
+# 'name'					   => _x( 'Groups', 'Taxonomy General Name', 'fusion-core' ),
+# 'singular_name'			  => _x( 'Group', 'Taxonomy Singular Name', 'fusion-core' ),
+# wpml-name: Taxonomy General Name: Groups
+msgid "Groups"
+msgstr ""
+
+# 'labels' => array(
+# 'name'				=> _x( 'Elastic Sliders', 'Post Type General Name', 'fusion-core' ),
+# 'singular_name'	   => _x( 'Elastic Slider', 'Post Type Singular Name', 'fusion-core' ),
+# wpml-name: Post Type General Name: Elastic Sliders
+msgid "Elastic Sliders"
+msgstr ""
+
+msgid "Not Found"
+msgstr ""
+
+msgid "Choose from the most used groups"
+msgstr ""
+
+msgid "Add or remove groups"
+msgstr ""
+
+msgid "Search Groups"
+msgstr ""
+
+msgid "Separate groups with commas"
+msgstr ""
+
+msgid "Update Group"
+msgstr ""
+
+msgid "Edit Group"
+msgstr ""
+
+msgid "Add Groups"
+msgstr ""
+
+msgid "New Group Name"
+msgstr ""
+
+msgid "Parent Group:"
+msgstr ""
+
+msgid "All Groups"
+msgstr ""
+
+msgid "Add or Edit Groups"
+msgstr ""
+
+msgid "Not found in Trash"
+msgstr ""
+
+msgid "Not found"
+msgstr ""
+
+msgid "Search Slide"
+msgstr ""
+
+msgid "Update Slide"
+msgstr ""
+
+msgid "Edit Slide"
+msgstr ""
+
+msgid "View Slides"
+msgstr ""
+
+msgid "Add or Edit Slides"
+msgstr ""
+
+msgid "Parent Slide:"
+msgstr ""
+
+msgid "Elastic Slider"
+msgstr ""
+
+# wp_link_pages( array(
+# 'before'      => '<div class="page-links"><span class="page-links-title">' . __( 'Pages:', 'Avada' ) . '</span>',
+# 'after'       => '</div>',
+# wpml-name: 0974d2c2f4c6420089275c2a41c4b41c
+msgid "Pages:"
+msgstr ""
+
+# <a id='clone-element-{{id}}' class="clone-element" href="javascript:void(0);" title="<?php _ex('Clone Element', 'in template', 'fusion-core'); ?>"><?php _ex('<i class="fusiona-file-add"></i>', 'Clone Element in template', 'fusion-core'); ?></a>
+# <a id='delete-element-{{id}}' class="delete-element" href="javascript:void(0);" title="<?php _ex('Delete Element', 'in template', 'fusion-core'); ?>"><i class="fusiona-trash-o"></i></a>
+# </div>
+# wpml-name: in template: Delete Element
+msgid "Delete Element"
+msgstr ""
+
+# {{/if}}
+# <a id='clone-element-{{id}}' class="clone-element" href="javascript:void(0);" title="<?php _ex('Clone Element', 'in template', 'fusion-core'); ?>"><?php _ex('<i class="fusiona-file-add"></i>', 'Clone Element in template', 'fusion-core'); ?></a>
+# <a id='delete-element-{{id}}' class="delete-element" href="javascript:void(0);" title="<?php _ex('Delete Element', 'in template', 'fusion-core'); ?>"><i class="fusiona-trash-o"></i></a>
+# wpml-name: Clone Element in template: <i class="fusiona-file-add"></i>
+msgid "<i class=\"fusiona-file-add\"></i>"
+msgstr ""
+
+# {{/if}}
+# <a id='clone-element-{{id}}' class="clone-element" href="javascript:void(0);" title="<?php _ex('Clone Element', 'in template', 'fusion-core'); ?>"><?php _ex('<i class="fusiona-file-add"></i>', 'Clone Element in template', 'fusion-core'); ?></a>
+# <a id='delete-element-{{id}}' class="delete-element" href="javascript:void(0);" title="<?php _ex('Delete Element', 'in template', 'fusion-core'); ?>"><i class="fusiona-trash-o"></i></a>
+# wpml-name: in template: Clone Element
+msgid "Clone Element"
+msgstr ""
+
+# {{#if popup_editor}}
+# <a id='edit-element-{{id}}' class="edit-element " href="javascript:void(0);" title="<?php _ex('Edit Element', 'in template', 'fusion-core'); ?>"><?php _ex('<i class="fusiona-pen"></i>', 'Edit Element in template', 'fusion-core'); ?></a>
+# {{/if}}
+# wpml-name: Edit Element in template: <i class="fusiona-pen"></i>
+msgid "<i class=\"fusiona-pen\"></i>"
+msgstr ""
+
+# {{#if popup_editor}}
+# <a id='edit-element-{{id}}' class="edit-element " href="javascript:void(0);" title="<?php _ex('Edit Element', 'in template', 'fusion-core'); ?>"><?php _ex('<i class="fusiona-pen"></i>', 'Edit Element in template', 'fusion-core'); ?></a>
+# {{/if}}
+# wpml-name: in template: Edit Element
+msgid "Edit Element"
+msgstr ""
+
+# <a class="increase-width change-width" href="javascript:void(0);" id='increase-width-{{id}}'
+# title="<?php _ex('Increase width', 'in template', 'fusion-core'); ?>"><i class="fusiona-plus2"></i></a>
+# <span class="grid_width">{{name}}</span>
+# wpml-name: in template: Increase width
+msgid "Increase width"
+msgstr ""
+
+# {{#if layout_opt}}
+# <a class="decrease-width change-width" href="javascript:void(0);" id='decrease-width-{{id}}' title="<?php _ex('Decrease width', 'in template', 'fusion-core'); ?>"><i class="fusiona-minus"></i></a>
+# <a class="increase-width change-width" href="javascript:void(0);" id='increase-width-{{id}}'
+# wpml-name: in template: Decrease width
+msgid "Decrease width"
+msgstr ""
+
+msgid "Fusion Builder"
+msgstr ""
+
+msgid "Saving..."
+msgstr ""
+
+msgid "Upload"
+msgstr ""
+
+msgid "Attach Images to Gallery"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+# array("name" 			=> __('Padding', 'fusion-core'),
+# "desc" 			=> __('In pixels (px), ex: 10px.', 'fusion-core'),
+# "id" 				=> "fusion_padding",
+# wpml-name: 4c17d2210228413be4bbfd88ee5b9590
+msgid "In pixels (px), ex: 10px."
+msgstr ""
+
+#
+# array("name" 			=> __('Padding', 'fusion-core'),
+# "desc" 			=> __('In pixels (px), ex: 10px.', 'fusion-core'),
+# wpml-name: a10443964156b9e87c95e74c8f9baf15
+msgid "Padding"
+msgstr ""
+
+# array("name" 			=> __('Border Color', 'fusion-core'),
+# "desc" 			=> __('Controls the border color.', 'fusion-core'),
+# "id" 				=> "fusion_bordercolor",
+# wpml-name: ecddf3c79361b0fd2e7bf8811a0d3277
+msgid "Controls the border color."
+msgstr ""
+
+# array("name" 			=> __('Border Size', 'fusion-core'),
+# "desc" 			=> __('In pixels (px), ex: 1px.', 'fusion-core'),
+# "id" 				=> "fusion_bordersize",
+# wpml-name: 0e6aba44b7b1e10e1adced66544ebc4c
+msgid "In pixels (px), ex: 1px."
+msgstr ""
+
+# array("name" 			=> __('Background Color', 'fusion-core'),
+# "desc" 			=> __('Controls the background color.', 'fusion-core'),
+# "id" 				=> "fusion_backgroundcolor",
+# wpml-name: e3113d9a91a27044e8b7bde08b6ae868
+msgid "Controls the background color."
+msgstr ""
+
+# array("name" 			=> __('Column Spacing', 'fusion-core'),
+# "desc" 			=> __('Set to "no" to eliminate margin between columns.', 'fusion-core'),
+# "id" 				=> "fusion_last",
+# wpml-name: c770fee4e617434736cf0823b0397e20
+msgid "Set to \"no\" to eliminate margin between columns."
+msgstr ""
+
+# array("name" 			=> __('Last Column', 'fusion-core'),
+# "desc" 			=> __('Choose if the column is last in a set. This has to be set to "Yes" for the last column in a set.', 'fusion-core'),
+# "id" 				=> "fusion_last",
+# wpml-name: ec730f886fdcf56560101f6dcb943872
+msgid ""
+"Choose if the column is last in a set. This has to be set to \"Yes\" for the "
+"last column in a set."
+msgstr ""
+
+msgid "Last Column"
+msgstr ""
+
+# array("name" 			=> __('100% Interior Content Width', 'fusion-core'),
+# "desc" 			=> __('Select if the interior content is contained to site width or 100% width. Selecting "Yes" will remove left/right padding. ', 'fusion-core'),
+# "id" 				=> "fusion_hundred_percent",
+# wpml-name: dbae86fd0f4c9f6bee5e26ed11db8c87
+msgid ""
+"Select if the interior content is contained to site width or 100% width. "
+"Selecting \"Yes\" will remove left/right padding. "
+msgstr ""
+
+# 'type' => 'select',
+# 'label' => __( '100% Interior Content Width', 'fusion-core' ),
+# 'desc' => __('Select if the interior content is contained to site width or 100% width. Selecting "Yes" will remove left/right padding.', 'fusion-core'),
+# wpml-name: 51055245ae68378a1b98c44b4bd51c85
+msgid "100% Interior Content Width"
+msgstr ""
+
+# 'label' => __( 'Set Columns to Euqal Height', 'fusion-core' ),
+# 'desc' => __('Select to set all column shortcodes that are used inside the container to have equal height.', 'fusion-core'),
+# 'options' => array(
+# wpml-name: 5bc3d768099ffaba3d13d0a5fbcb4c75
+msgid ""
+"Select to set all column shortcodes that are used inside the container to "
+"have equal height."
+msgstr ""
+
+# 'type' => 'select',
+# 'label' => __( 'Set Columns to Euqal Height', 'fusion-core' ),
+# 'desc' => __('Select to set all column shortcodes that are used inside the container to have equal height.', 'fusion-core'),
+# wpml-name: eb2679c247959b59c345a96609aa4b86
+msgid "Set Columns to Euqal Height"
+msgstr ""
+
+msgid "Padding Right"
+msgstr ""
+
+msgid "Padding Left"
+msgstr ""
+
+msgid "In pixels. Use a number without px."
+msgstr ""
+
+msgid "Padding Bottom"
+msgstr ""
+
+msgid "In pixels.  Use a number without px."
+msgstr ""
+
+msgid "Padding Top"
+msgstr ""
+
+msgid "Dotted"
+msgstr ""
+
+msgid "Dashed"
+msgstr ""
+
+msgid "Solid"
+msgstr ""
+
+msgid "Controls the border style."
+msgstr ""
+
+msgid "Border Style"
+msgstr ""
+
+# 'label' => __( 'Fading Animation', 'fusion-core' ),
+# 'desc' => __('Choose to have the background image fade and blur on scroll. WARNING: Only works for images. This will cause video backgrounds to not display. ', 'fusion-core'),
+# 'options' => array(
+# wpml-name: 3ca4d7b62abaed5b055b9146d3915021
+msgid ""
+"Choose to have the background image fade and blur on scroll. WARNING: Only "
+"works for images. This will cause video backgrounds to not display. "
+msgstr ""
+
+# 'type' => 'select',
+# 'label' => __( 'Fading Animation', 'fusion-core' ),
+# 'desc' => __('Choose to have the background image fade and blur on scroll. WARNING: Only works for images. This will cause video backgrounds to not display. ', 'fusion-core'),
+# wpml-name: 0ec963e5e8ea6a1e282e995a182e8ed5
+msgid "Fading Animation"
+msgstr ""
+
+# 'type' => 'select',
+# 'label' => __( 'Loop Video', 'fusion-core' ),
+# 'desc' => '',
+# wpml-name: b496632280d293f4a8c7374a0b5bf788
+msgid "Loop Video"
+msgstr ""
+
+# 'type' => 'select',
+# 'label' => __( 'Mute Video', 'fusion-core' ),
+# 'desc' => '',
+# wpml-name: 0c69b721a3621ae32eb541cc343622af
+msgid "Mute Video"
+msgstr ""
+
+# 'label' => __( 'Video Overlay Opacity', 'fusion-core' ),
+# 'desc' => __('Opacity ranges between 0 (transparent) and 1 (opaque). ex: .4', 'fusion-core'),
+# 'std' => '0.5'
+# wpml-name: 3a3acc3f09f0b709fd3131d43f2f10eb
+msgid "Opacity ranges between 0 (transparent) and 1 (opaque). ex: .4"
+msgstr ""
+
+# 'type' => 'text',
+# 'label' => __( 'Video Overlay Opacity', 'fusion-core' ),
+# 'desc' => __('Opacity ranges between 0 (transparent) and 1 (opaque). ex: .4', 'fusion-core'),
+# wpml-name: 64c4d977f73d37fdce182b1678b09a26
+msgid "Video Overlay Opacity"
+msgstr ""
+
+# 'label' => __( 'Video Overlay Color', 'fusion-core' ),
+# 'desc' => __('Select a color to show over the video as an overlay. Hex color code, <strong>ex: #fff</strong>', 'fusion-core'),
+# ),
+# wpml-name: e5330b0a63bdd002bbd55b38670b5c1c
+msgid ""
+"Select a color to show over the video as an overlay. Hex color code, "
+"<strong>ex: #fff</strong>"
+msgstr ""
+
+# 'type' => 'colorpicker',
+# 'label' => __( 'Video Overlay Color', 'fusion-core' ),
+# 'desc' => __('Select a color to show over the video as an overlay. Hex color code, <strong>ex: #fff</strong>', 'fusion-core'),
+# wpml-name: a6fa53ecf8531f42a086439905c8ab8b
+msgid "Video Overlay Color"
+msgstr ""
+
+# 'label' => __( 'Video Preview Image', 'fusion-core' ),
+# 'desc' => __('IMPORTANT: This field must be used for self hosted videos. Self hosted videos do not work correctly on mobile devices. The preview image will be seen in place of your video on older browsers or mobile devices.', 'fusion-core')
+# ),
+# wpml-name: d78104c2ead596c9200328bee47e6021
+msgid ""
+"IMPORTANT: This field must be used for self hosted videos. Self hosted "
+"videos do not work correctly on mobile devices. The preview image will be "
+"seen in place of your video on older browsers or mobile devices."
+msgstr ""
+
+# 'type' => 'uploader',
+# 'label' => __( 'Video Preview Image', 'fusion-core' ),
+# 'desc' => __('IMPORTANT: This field must be used for self hosted videos. Self hosted videos do not work correctly on mobile devices. The preview image will be seen in place of your video on older browsers or mobile devices.', 'fusion-core')
+# wpml-name: 48aeeea09a94ff16dbf396bcea711146
+msgid "Video Preview Image"
+msgstr ""
+
+# 'label' => __( 'Video OGV Upload', 'fusion-core' ),
+# 'desc' => __('Add your OGV video file. This is optional.', 'fusion-core'),
+# ),
+# wpml-name: 1346315545dfb0bccc63ac7e2999d031
+msgid "Add your OGV video file. This is optional."
+msgstr ""
+
+# 'type' => 'text',
+# 'label' => __( 'Video OGV Upload', 'fusion-core' ),
+# 'desc' => __('Add your OGV video file. This is optional.', 'fusion-core'),
+# wpml-name: fd7b33c003b2b564094da9813e6a1c6d
+msgid "Video OGV Upload"
+msgstr ""
+
+# 'type' => 'text',
+# 'label' => __( 'Video MP4 Upload', 'fusion-core' ),
+# 'desc' => __('Video must be in a 16:9 aspect ratio. Add your MP4 video file. MP4 and WebM format must be included to render your video with cross browser compatibility. OGV is optional.', 'fusion-core'),
+# wpml-name: af8a8bb0c20e75598d776cbf58388fda
+msgid "Video MP4 Upload"
+msgstr ""
+
+# 'label' => __( 'Video WebM Upload', 'fusion-core' ),
+# 'desc' => __('Video must be in a 16:9 aspect ratio. Add your WebM video file. WebM and MP4 format must be included to render your video with cross browser compatibility. OGV is optional.', 'fusion-core'),
+# ),
+# wpml-name: 31d476ec1d0b205e6615a72d8956bbbd
+msgid ""
+"Video must be in a 16:9 aspect ratio. Add your WebM video file. WebM and MP4 "
+"format must be included to render your video with cross browser "
+"compatibility. OGV is optional."
+msgstr ""
+
+# 'type' => 'text',
+# 'label' => __( 'Video WebM Upload', 'fusion-core' ),
+# 'desc' => __('Video must be in a 16:9 aspect ratio. Add your WebM video file. WebM and MP4 format must be included to render your video with cross browser compatibility. OGV is optional.', 'fusion-core'),
+# wpml-name: fb7f2cab4a3fec3cad843ffeac113365
+msgid "Video WebM Upload"
+msgstr ""
+
+msgid "Local: background scrolls along with the element's contents"
+msgstr ""
+
+msgid "Fixed: background is fixed giving a parallax effect"
+msgstr ""
+
+msgid "Scroll: background scrolls along with the element"
+msgstr ""
+
+msgid "Choose how the background image scrolls"
+msgstr ""
+
+msgid "Background Scroll"
+msgstr ""
+
+msgid "Center Bottom"
+msgstr ""
+
+msgid "Center Center"
+msgstr ""
+
+msgid "Center Top"
+msgstr ""
+
+msgid "Right Bottom"
+msgstr ""
+
+msgid "Right Center"
+msgstr ""
+
+msgid "Right Top"
+msgstr ""
+
+msgid "Left Bottom"
+msgstr ""
+
+msgid "Left Center"
+msgstr ""
+
+msgid "Left Top"
+msgstr ""
+
+msgid "Choose the postion of the background image"
+msgstr ""
+
+msgid "Background Position"
+msgstr ""
+
+msgid "Repeat Vertically"
+msgstr ""
+
+msgid "Repeat Horizontally"
+msgstr ""
+
+msgid "Repeat Vertically and Horizontally"
+msgstr ""
+
+msgid "No Repeat"
+msgstr ""
+
+msgid "Choose how the background image repeats."
+msgstr ""
+
+msgid "Background Repeat"
+msgstr ""
+
+msgid "Upload an image to display in the background"
+msgstr ""
+
+msgid "Background Image"
+msgstr ""
+
+msgid "Full Width Container"
+msgstr ""
+
+msgid ""
+"Use additional API parameter, for example &rel=0 to disable related videos"
+msgstr ""
+
+msgid "Youtube"
+msgstr ""
+
+msgid "Strip HTML from Posts Content"
+msgstr ""
+
+# 'label' => __( 'Grid Layout Column Spacing', 'fusion-core' ),
+# 'desc' => __( 'Insert the amount of spacing between blog grid posts without "px".', 'fusion-core' )
+# ),
+# wpml-name: 3e8e55e9258cf713a75eb02e038046a4
+msgid "Insert the amount of spacing between blog grid posts without \"px\"."
+msgstr ""
+
+# 'type' => 'text',
+# 'label' => __( 'Grid Layout Column Spacing', 'fusion-core' ),
+# 'desc' => __( 'Insert the amount of spacing between blog grid posts without "px".', 'fusion-core' )
+# wpml-name: ddeac62be9dd2de2e425bb7226a04283
+msgid "Grid Layout Column Spacing"
+msgstr ""
+
+msgid "Select whether to display the grid layout in 2, 3, 4, 5 or 6 column."
+msgstr ""
+
+msgid "Grid Layout # of Columns"
+msgstr ""
+
+msgid "Pagination"
+msgstr ""
+
+msgid "Choose the type of scrolling"
+msgstr ""
+
+msgid "Infinite Scrolling"
+msgstr ""
+
+msgid "Show numerical pagination boxes"
+msgstr ""
+
+msgid "Show Pagination"
+msgstr ""
+
+msgid "Choose to show the tags"
+msgstr ""
+
+msgid "Show Tags"
+msgstr ""
+
+msgid "Choose to show the link"
+msgstr ""
+
+msgid "Show Read More Link"
+msgstr ""
+
+msgid "Choose to show the date"
+msgstr ""
+
+msgid "Show Date"
+msgstr ""
+
+msgid "Choose to show the comments"
+msgstr ""
+
+msgid "Show Comment Count"
+msgstr ""
+
+msgid "Choose to show the categories"
+msgstr ""
+
+msgid "Choose to show the author"
+msgstr ""
+
+msgid "Show Author Name"
+msgstr ""
+
+msgid "Show Meta Info"
+msgstr ""
+
+msgid ""
+"Control the excerpt length based on words/character setting in Theme Options "
+"> Extra."
+msgstr ""
+
+msgid "Number of words/characters in Excerpt"
+msgstr ""
+
+msgid "Show excerpt or choose \"no\" for full content"
+msgstr ""
+
+msgid "Choose if the title should be a link to the single post page."
+msgstr ""
+
+msgid "Link Title To Post"
+msgstr ""
+
+msgid "Select number of posts per page"
+msgstr ""
+
+msgid "Posts Per Page"
+msgstr ""
+
+msgid "Timeline"
+msgstr ""
+
+msgid "Medium Alternate"
+msgstr ""
+
+msgid "Large Alternate"
+msgstr ""
+
+msgid "Select the layout for the blog shortcode"
+msgstr ""
+
+msgid "Blog Layout"
+msgstr ""
+
+msgid "Blog"
+msgstr ""
+
+msgid "Shortcode will appear here"
+msgstr ""
+
+msgid "Shortcode content"
+msgstr ""
+
+msgid "Shop Message"
+msgstr ""
+
+msgid "Featured products"
+msgstr ""
+
+msgid "Recent products"
+msgstr ""
+
+msgid "Products by category slug"
+msgstr ""
+
+msgid "Product categories"
+msgstr ""
+
+msgid "Products by SKU/ID"
+msgstr ""
+
+msgid "Product by SKU/ID"
+msgstr ""
+
+msgid "Product price/cart button"
+msgstr ""
+
+msgid "Order tracking"
+msgstr ""
+
+msgid "Choose woocommerce shortcode"
+msgstr ""
+
+msgid "Shortocode"
+msgstr ""
+
+msgid "Woo Shortcodes"
+msgstr ""
+
+msgid ""
+"No settings required. Insert the shortcode and your featured products will "
+"be pulled. Featured products are products that you have \"Starred\" in the "
+"WooCommerce settings. To set featured products, please see this post.<br><a "
+"href='http://theme-fusion.com/knowledgebase/how-to-use-woocommerce-featured-"
+"products-slider/' target='_blank'>Knowledge Base Article for Featured "
+"Products</a>"
+msgstr ""
+
+msgid "Woocommerce Featured Products Slider"
+msgstr ""
+
+msgid "Woo Featured"
+msgstr ""
+
+msgid "Choose to show or hide the icon buttons"
+msgstr ""
+
+msgid "Show Buttons"
+msgstr ""
+
+msgid "Choose to show or hide the price"
+msgstr ""
+
+msgid "Show Price"
+msgstr ""
+
+msgid "Choose to show or hide the categories"
+msgstr ""
+
+msgid "Show Categories"
+msgstr ""
+
+msgid "Select the number of products to display"
+msgstr ""
+
+msgid "Number of Products"
+msgstr ""
+
+msgid "Woo Carousel"
+msgstr ""
+
+msgid ""
+"Use additional API parameter, for example &title=0 to disable title on "
+"video. VimeoPlus account may be required."
+msgstr ""
+
+msgid "AdditionalAPI Parameter"
+msgstr ""
+
+msgid "Set to yes to make video autoplaying"
+msgstr ""
+
+msgid "Autoplay Video"
+msgstr ""
+
+msgid "In pixels but only enter a number, ex: 350"
+msgstr ""
+
+msgid "In pixels but only enter a number, ex: 600"
+msgstr ""
+
+msgid "For example the Video ID for<br>https://vimeo.com/75230326 is 75230326"
+msgstr ""
+
+msgid "Video ID"
+msgstr ""
+
+msgid "Vimeo"
+msgstr ""
+
+msgid "Add New Toggle"
+msgstr ""
+
+msgid "Insert the toggle content"
+msgstr ""
+
+msgid "Toggle Content"
+msgstr ""
+
+msgid "Choose to have the toggle open when page loads"
+msgstr ""
+
+msgid "Open by Default"
+msgstr ""
+
+msgid "Insert the toggle title"
+msgstr ""
+
+msgid "Toggles"
+msgstr ""
+
+msgid "Underline Dotted"
+msgstr ""
+
+msgid "Underline Dashed"
+msgstr ""
+
+msgid "Underline Solid"
+msgstr ""
+
+msgid "Underline"
+msgstr ""
+
+msgid "Double Dotted"
+msgstr ""
+
+msgid "Double Dashed"
+msgstr ""
+
+msgid "Double Solid"
+msgstr ""
+
+msgid "Double"
+msgstr ""
+
+msgid "Single Dotted"
+msgstr ""
+
+msgid "Single Dashed"
+msgstr ""
+
+msgid "Single Solid"
+msgstr ""
+
+msgid "Single"
+msgstr ""
+
+msgid "Choose the kind of the title separator you want to use."
+msgstr ""
+
+msgid "Choose to align the heading left or right."
+msgstr ""
+
+msgid "Title Alignment"
+msgstr ""
+
+msgid "Choose the title size, H1-H6"
+msgstr ""
+
+msgid "Title Size"
+msgstr ""
+
+msgid "Add New Testimonial"
+msgstr ""
+
+msgid "Add the testimonial content"
+msgstr ""
+
+msgid "Testimonial Content"
+msgstr ""
+
+msgid "_self = open in same window<br>_blank = open in new window."
+msgstr ""
+
+msgid "Target"
+msgstr ""
+
+msgid "Add the url the company name will link to."
+msgstr ""
+
+msgid "Insert the name of the company."
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+# 'label' => __( 'Border Radius', 'fusion-core' ),
+# 'desc' => __( 'Choose the radius of the testimonial image. In pixels (px), ex: 1px, or "round".  Leave blank for theme option selection.', 'fusion-core' ),
+# ),
+# wpml-name: 8441f64e4f5122c692e45b9e6b164c25
+msgid ""
+"Choose the radius of the testimonial image. In pixels (px), ex: 1px, or "
+"\"round\".  Leave blank for theme option selection."
+msgstr ""
+
+msgid "Upload a custom avatar image."
+msgstr ""
+
+msgid "Custom Avatar"
+msgstr ""
+
+msgid "Female"
+msgstr ""
+
+msgid "Male"
+msgstr ""
+
+msgid "Choose which kind of Avatar to be displayed."
+msgstr ""
+
+msgid "Avatar"
+msgstr ""
+
+msgid "Insert the name of the person"
+msgstr ""
+
+msgid "Testimonial"
+msgstr ""
+
+msgid ""
+"This is additional content you can add to the tagline box. This will show "
+"below the title and description if one is used."
+msgstr ""
+
+msgid "Additional Content"
+msgstr ""
+
+msgid "Insert the description text"
+msgstr ""
+
+msgid "Tagline Description"
+msgstr ""
+
+msgid "Insert the title text"
+msgstr ""
+
+msgid "Tagline Title"
+msgstr ""
+
+msgid "Choose the button color<br>Default uses theme option selection"
+msgstr ""
+
+msgid "Button Color"
+msgstr ""
+
+msgid "Select the button's shape."
+msgstr ""
+
+msgid "Select the button's type."
+msgstr ""
+
+msgid "Select the button's size."
+msgstr ""
+
+msgid "The url the button will link to"
+msgstr ""
+
+msgid "Link"
+msgstr ""
+
+msgid "Insert the text that will display in the button"
+msgstr ""
+
+msgid "Button Text"
+msgstr ""
+
+msgid "Choose how the content should be displayed."
+msgstr ""
+
+msgid ""
+"Choose the position of the highlight. This border highlight is from theme "
+"options primary color and does not take the color from border color above"
+msgstr ""
+
+msgid "Highlight Border Position"
+msgstr ""
+
+msgid "In pixels (px), ex: 1px"
+msgstr ""
+
+msgid "Choose the opacity of the shadow"
+msgstr ""
+
+msgid "Shadow Opacity"
+msgstr ""
+
+msgid "Show the shadow below the box"
+msgstr ""
+
+msgid "Tagline Box"
+msgstr ""
+
+msgid "Add New Tab"
+msgstr ""
+
+# 'label' => __( 'Border Color', 'fusion-core' ),
+# 'desc' => __( 'Controls the color of the outer tab border. Leave blank for theme option selection.', 'fusion-core' ),
+# ),
+# wpml-name: ca067455f7e9ee89101ce29b789657c9
+msgid ""
+"Controls the color of the outer tab border. Leave blank for theme option "
+"selection."
+msgstr ""
+
+msgid ""
+"Controls the inactive tab color. Leave blank for theme option selection."
+msgstr ""
+
+msgid "Inactive Color"
+msgstr ""
+
+msgid ""
+"Controls the background tab color. Leave blank for theme option selection."
+msgstr ""
+
+msgid "Choose to get tabs stretched over full shortcode width."
+msgstr ""
+
+msgid "Justify Tabs"
+msgstr ""
+
+msgid "Choose the layout of the shortcode"
+msgstr ""
+
+# 'classic' => __('Classic', 'fusion-core'),
+# 'clean' => __('Clean', 'fusion-core')
+# )
+# wpml-name: 37d12e2cfbef6e6105297374d02f3998
+msgid "Clean"
+msgstr ""
+
+# 'options' => array(
+# 'classic' => __('Classic', 'fusion-core'),
+# 'clean' => __('Clean', 'fusion-core')
+# wpml-name: d35b51b639528d580362ca7042de6a0e
+msgid "Classic"
+msgstr ""
+
+# 'label' => __( 'Design', 'fusion-core' ),
+# 'desc' => __( 'Choose a design for the shortcode.', 'fusion-core' ),
+# 'options' => array(
+# wpml-name: 3060611127bff82e2758ccaa499bd983
+msgid "Choose a design for the shortcode."
+msgstr ""
+
+# 'type' => 'select',
+# 'label' => __( 'Design', 'fusion-core' ),
+# 'desc' => __( 'Choose a design for the shortcode.', 'fusion-core' ),
+# wpml-name: 1afa74da05ca145d3418aad9af510109
+msgid "Design"
+msgstr ""
+
+msgid "Add the tabs content"
+msgstr ""
+
+msgid "Tab Content"
+msgstr ""
+
+# 'label' => __( 'Select Icon', 'fusion-core' ),
+# 'desc' => __( 'Display an icon next to tab title. Click an icon to select, click again to deselect.', 'fusion-core' ),
+# 'options' => $icons
+# wpml-name: b9b4569b66740befd80a9ca882eaf820
+msgid ""
+"Display an icon next to tab title. Click an icon to select, click again to "
+"deselect."
+msgstr ""
+
+msgid "Title of the tab"
+msgstr ""
+
+msgid "Tab Title"
+msgstr ""
+
+msgid "Tabs"
+msgstr ""
+
+msgid "Style 2"
+msgstr ""
+
+msgid "Style 1"
+msgstr ""
+
+msgid "Select the table style"
+msgstr ""
+
+msgid "Table"
+msgstr ""
+
+msgid "In pixels (px)"
+msgstr ""
+
+msgid "Height"
+msgstr ""
+
+msgid "In pixels (px) or percentage (%)"
+msgstr ""
+
+msgid "Width"
+msgstr ""
+
+msgid "Select the color of the shortcode"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Choose to autoplay the track"
+msgstr ""
+
+msgid "Autoplay"
+msgstr ""
+
+msgid "Choose to display comments"
+msgstr ""
+
+msgid "Show Comments"
+msgstr ""
+
+msgid "The SoundCloud url, ex: http://api.soundcloud.com/tracks/110813479"
+msgstr ""
+
+msgid "SoundCloud Url"
+msgstr ""
+
+msgid "Soundcloud"
+msgstr ""
+
+msgid "Show the custom social icon specified in Theme Options"
+msgstr ""
+
+msgid "Show Custom Social Icon"
+msgstr ""
+
+msgid "Insert your custom Soundcloud link"
+msgstr ""
+
+msgid "Pinterest Link"
+msgstr ""
+
+msgid "Insert your custom Dribbble link"
+msgstr ""
+
+msgid "Social Links"
+msgstr ""
+
+msgid "Add New Slide"
+msgstr ""
+
+msgid "Height in percentage (%) or pixels (px)"
+msgstr ""
+
+msgid "Image Size Height"
+msgstr ""
+
+msgid "Width in percentage (%) or pixels (px)"
+msgstr ""
+
+msgid "Image Size Width"
+msgstr ""
+
+msgid ""
+"Click the Youtube or Vimeo Shortcode button below then enter your unique "
+"video ID, or copy and paste your video embed code.<a href=\"JavaScript:void"
+"(0);\" sc-data='[youtube id=\"Enter video ID (eg. Wq4Y7ztznKc)\" width="
+"\"600\" height=\"350\"]' class=\"fusionb-add-shortcode\">Insert Youtube "
+"Shortcode</a><a href=\"JavaScript:void(0);\" sc-data='[vimeo id=\"Enter "
+"video ID (eg. 10145153)\" width=\"600\" height=\"350\"]' class=\"fusionb-add-"
+"shortcode\">Insert Vimeo Shortcode</a>"
+msgstr ""
+
+msgid "Video Shortcode or Video Embed Code"
+msgstr ""
+
+msgid "Lighbox"
+msgstr ""
+
+msgid ""
+"Add the url of where the image will link to. If lightbox option is enabled, "
+"you have to add the full image link to show it in the lightbox"
+msgstr ""
+
+msgid "Full Image Link or External Link"
+msgstr ""
+
+msgid "Upload an image to display in the slide"
+msgstr ""
+
+msgid "Slide Image"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Choose a video or image slide"
+msgstr ""
+
+msgid "Slide Type"
+msgstr ""
+
+msgid "Slider"
+msgstr ""
+
+msgid "Choose Image to Share on Pinterest"
+msgstr ""
+
+msgid "The description that will be shared"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Link to Share"
+msgstr ""
+
+msgid "The post title that will be shared"
+msgstr ""
+
+msgid "Controls the background color. Leave blank for theme option selection."
+msgstr ""
+
+msgid "Controls the text color. Leave blank for theme option selection"
+msgstr ""
+
+msgid "Tagline Color"
+msgstr ""
+
+msgid "Share This Story, Choose Your Platform!"
+msgstr ""
+
+msgid "The title tagline that will display"
+msgstr ""
+
+msgid "Tagline"
+msgstr ""
+
+msgid "Sharing Box"
+msgstr ""
+
+msgid "In pixels (px or %), ex: 1px, ex: 50%. Leave blank for full width."
+msgstr ""
+
+msgid "Separator Width"
+msgstr ""
+
+msgid "Controls the separator color. Leave blank for theme option selection."
+msgstr ""
+
+msgid "Separator Color"
+msgstr ""
+
+msgid "Spacing below the separator. In pixels.  Use a number without px."
+msgstr ""
+
+msgid "Margin Bottom"
+msgstr ""
+
+msgid "Spacing above the separator. In pixels.  Use a number without px."
+msgstr ""
+
+msgid "Margin Top"
+msgstr ""
+
+msgid "Double Border Dotted"
+msgstr ""
+
+msgid "Single Border Dotted"
+msgstr ""
+
+msgid "Double Border Dashed"
+msgstr ""
+
+msgid "Single Border Dashed"
+msgstr ""
+
+msgid "Double Border Solid"
+msgstr ""
+
+msgid "Single Border Solid"
+msgstr ""
+
+msgid "No Style"
+msgstr ""
+
+msgid "Choose the separator line style"
+msgstr ""
+
+msgid "Style"
+msgstr ""
+
+msgid "Separator"
+msgstr ""
+
+msgid ""
+"Controls the background color of the triangle. Leave blank for theme option "
+"selection."
+msgstr ""
+
+msgid "Background Color of Divider Candy"
+msgstr ""
+
+msgid "Controls the border color. Leave blank for theme option selection."
+msgstr ""
+
+msgid "Top and Bottom"
+msgstr ""
+
+msgid "Select the position of the triangle candy"
+msgstr ""
+
+msgid "Position of the Divider Candy"
+msgstr ""
+
+msgid "Section Separator"
+msgstr ""
+
+msgid "Revolution Slider"
+msgstr ""
+
+# 'label' => __( 'Column Spacing', 'fusion-core' ),
+# 'desc' => __( 'Insert the amount of spacing between portfolio items without "px". ex: 7. Does not work with Carousel layout.', 'fusion-core' )
+# ),
+# wpml-name: 2c63ec8e44cd8aca94a981c27e512427
+msgid ""
+"Insert the amount of spacing between portfolio items without \"px\". ex: 7. "
+"Does not work with Carousel layout."
+msgstr ""
+
+#
+# array("name" 			=> __('Column Spacing', 'fusion-core'),
+# "desc" 			=> __('Set to "no" to eliminate margin between columns.', 'fusion-core'),
+# wpml-name: e59c6a10919ce28527c1b08f61273008
+msgid "Column Spacing"
+msgstr ""
+
+msgid ""
+"Select the number of columns to display. Does not work with Carousel layout."
+msgstr ""
+
+msgid "Choose to show or hide the category filters"
+msgstr ""
+
+msgid "Show Filters"
+msgstr ""
+
+msgid "Unboxed"
+msgstr ""
+
+msgid "Boxed"
+msgstr ""
+
+msgid "Select if the grid with excerpts layouts are boxed or unboxed."
+msgstr ""
+
+msgid "Grid with Excerpts Layout"
+msgstr ""
+
+msgid "Grid with Excerpts"
+msgstr ""
+
+msgid "Grid"
+msgstr ""
+
+msgid "Carousel"
+msgstr ""
+
+msgid "Choose the layout for the shortcode"
+msgstr ""
+
+msgid "Recent Works"
+msgstr ""
+
+msgid "Strip HTML from the post excerpt"
+msgstr ""
+
+msgid "Strip HTML"
+msgstr ""
+
+msgid "Insert the number of words/characters you want to show in the excerpt"
+msgstr ""
+
+msgid "Excerpt Length"
+msgstr ""
+
+msgid "Choose to display the post excerpt"
+msgstr ""
+
+msgid "Show Excerpt"
+msgstr ""
+
+msgid "Choose to show all meta data"
+msgstr ""
+
+msgid "Show Meta"
+msgstr ""
+
+msgid "Display the post title below the featured image"
+msgstr ""
+
+msgid "Show Title"
+msgstr ""
+
+msgid "Display the post featured image"
+msgstr ""
+
+msgid "Show Thumbnail"
+msgstr ""
+
+msgid "Select a category to exclude"
+msgstr ""
+
+msgid "Exclude Categories"
+msgstr ""
+
+msgid "Select a category or leave blank for all"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Select the number of posts to display"
+msgstr ""
+
+msgid "Number of Posts"
+msgstr ""
+
+msgid "Select the number of columns to display"
+msgstr ""
+
+msgid "Columns"
+msgstr ""
+
+msgid "Date on Side"
+msgstr ""
+
+msgid "Thumbnails on Side"
+msgstr ""
+
+msgid "Select the layout for the shortcode"
+msgstr ""
+
+msgid "Recent Posts"
+msgstr ""
+
+msgid "Text will show up on progess bar"
+msgstr ""
+
+msgid "Progess Bar Text"
+msgstr ""
+
+msgid "Controls the text color. Leave blank for theme option selection."
+msgstr ""
+
+msgid "Text Color"
+msgstr ""
+
+msgid "Choose to get the the stripes animated."
+msgstr ""
+
+msgid "Animated Stripes"
+msgstr ""
+
+msgid "Choose to get the filled area striped."
+msgstr ""
+
+msgid "Striped Filling"
+msgstr ""
+
+msgid "Insert a unit for the progress bar. ex %"
+msgstr ""
+
+msgid "Progress Bar Unit"
+msgstr ""
+
+msgid "Progress Bar"
+msgstr ""
+
+msgid "Pricing Table short code content"
+msgstr ""
+
+msgid "Short Code"
+msgstr ""
+
+msgid "Select how many columns to display"
+msgstr ""
+
+msgid "Divider Color"
+msgstr ""
+
+msgid "Leave blank for default"
+msgstr ""
+
+msgid "Select the type of pricing table"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Pricing Table"
+msgstr ""
+
+msgid "Only works for attachments layout."
+msgstr ""
+
+msgid "Attach Images to Post/Page Gallery"
+msgstr ""
+
+msgid "Only works on attachment layout."
+msgstr ""
+
+msgid "Lightbox on Click"
+msgstr ""
+
+msgid "Select the number of slides to display."
+msgstr ""
+
+msgid "Number of Slides"
+msgstr ""
+
+msgid "Select a category of posts to display."
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Insert the number of words you want to show in the excerpt."
+msgstr ""
+
+msgid "Excerpt Number of Words"
+msgstr ""
+
+msgid "Attachment Layout, Only Images Attached to Post/Page"
+msgstr ""
+
+msgid "Posts with Title and Excerpt"
+msgstr ""
+
+msgid "Posts with Title"
+msgstr ""
+
+msgid "Choose a layout style for Post Slider."
+msgstr ""
+
+msgid "Layout"
+msgstr ""
+
+msgid "Post Silder"
+msgstr ""
+
+msgid "Insert your custom VK link"
+msgstr ""
+
+msgid "VK Link"
+msgstr ""
+
+msgid "Insert your custom SoundCloud link"
+msgstr ""
+
+msgid "SoundCloud Link"
+msgstr ""
+
+msgid "Insert your custom Dropbox link"
+msgstr ""
+
+msgid "Dropbox Link"
+msgstr ""
+
+msgid "Insert your custom PayPal link"
+msgstr ""
+
+msgid "PayPal Link"
+msgstr ""
+
+msgid "Insert your custom Skype link"
+msgstr ""
+
+msgid "Skype Link"
+msgstr ""
+
+msgid "Insert your custom Myspace link"
+msgstr ""
+
+msgid "Myspace Link"
+msgstr ""
+
+msgid "Insert your custom Forrst link"
+msgstr ""
+
+msgid "Forrst Link"
+msgstr ""
+
+msgid "Insert your custom Flickr link"
+msgstr ""
+
+msgid "Flickr Link"
+msgstr ""
+
+msgid "Insert your custom Digg link"
+msgstr ""
+
+msgid "Digg Link"
+msgstr ""
+
+msgid "Insert your custom RSS link"
+msgstr ""
+
+msgid "RSS Link"
+msgstr ""
+
+msgid "Insert your custom Pinterest link"
+msgstr ""
+
+msgid "Pinterst Link"
+msgstr ""
+
+msgid "Insert your custom Youtube link"
+msgstr ""
+
+msgid "Youtube Link"
+msgstr ""
+
+msgid "Insert your custom Vimeo link"
+msgstr ""
+
+msgid "Vimeo Link"
+msgstr ""
+
+msgid "Insert your custom Deviantart link"
+msgstr ""
+
+msgid "Deviantart Link"
+msgstr ""
+
+msgid "Insert your custom Yahoo link"
+msgstr ""
+
+msgid "Yahoo Link"
+msgstr ""
+
+msgid "Insert your custom Reddit link"
+msgstr ""
+
+msgid "Reddit Link"
+msgstr ""
+
+msgid "Insert your custom Tumblr link"
+msgstr ""
+
+msgid "Tumblr Link"
+msgstr ""
+
+msgid "Insert your custom Blogger link"
+msgstr ""
+
+msgid "Blogger Link"
+msgstr ""
+
+msgid "Insert your custom LinkedIn link"
+msgstr ""
+
+msgid "LinkedIn Link"
+msgstr ""
+
+msgid "Insert your custom Google+ link"
+msgstr ""
+
+msgid "Google+ Link"
+msgstr ""
+
+msgid "Dribbble Link"
+msgstr ""
+
+msgid "Insert your custom Instagram link"
+msgstr ""
+
+msgid "Instagram Link"
+msgstr ""
+
+msgid "Insert your custom Twitter link"
+msgstr ""
+
+msgid "Twitter Link"
+msgstr ""
+
+msgid "Insert your custom Facebook link"
+msgstr ""
+
+msgid "Facebook Link"
+msgstr ""
+
+msgid "Insert an email address to display the email icon"
+msgstr ""
+
+msgid "Email Address"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid ""
+"Choose the display position for tooltips. Choose default for theme option "
+"selection."
+msgstr ""
+
+msgid "Social Icon Tooltip Position"
+msgstr ""
+
+msgid ""
+"Specify the box color of social icons. Use one for all or separate by | "
+"symbol. ex: #AA0000|#00AA00|#0000AA. Leave blank for theme option selection."
+msgstr ""
+
+msgid "Social Icon Custom Box Colors"
+msgstr ""
+
+msgid ""
+"Specify the color of social icons. Use one for all or separate by | symbol. "
+"ex: #AA0000|#00AA00|#0000AA. Leave blank for theme option selection."
+msgstr ""
+
+msgid "Social Icon Custom Colors"
+msgstr ""
+
+msgid ""
+"Choose the radius of the boxed icons. In pixels (px), ex: 1px, or \"round\". "
+"Leave blank for theme option selection."
+msgstr ""
+
+msgid "Social Icon Box Radius"
+msgstr ""
+
+msgid "Choose to get a boxed icons. Choose default for theme option selection."
+msgstr ""
+
+msgid "Boxed Social Icons"
+msgstr ""
+
+# 'label' => __( 'Picture Border Radius', 'fusion-core' ),
+# 'desc' => __( 'Choose the radius of the person image. In pixels (px), ex: 1px, or "round".  Leave blank for theme option selection.', 'fusion-core' ),
+# ),
+# wpml-name: c3b00df0741548ad936e542b075e38ed
+msgid ""
+"Choose the radius of the person image. In pixels (px), ex: 1px, or \"round"
+"\".  Leave blank for theme option selection."
+msgstr ""
+
+# 'type' => 'text',
+# 'label' => __( 'Picture Border Radius', 'fusion-core' ),
+# 'desc' => __( 'Choose the radius of the person image. In pixels (px), ex: 1px, or "round".  Leave blank for theme option selection.', 'fusion-core' ),
+# wpml-name: 8424743ff4817c0c68dba1338f1b6b18
+msgid "Picture Border Radius"
+msgstr ""
+
+msgid ""
+"Controls the picture's border color. Leave blank for theme option selection."
+msgstr ""
+
+msgid "Picture Border Color"
+msgstr ""
+
+msgid "Picture Border Size"
+msgstr ""
+
+msgid "Picture Style Color"
+msgstr ""
+
+msgid "Selected the style type for the picture."
+msgstr ""
+
+msgid "Picture Style Type"
+msgstr ""
+
+msgid "Picture"
+msgstr ""
+
+msgid "Enter the content to be displayed"
+msgstr ""
+
+msgid "Profile Description"
+msgstr ""
+
+msgid "Insert the title of the person"
+msgstr ""
+
+msgid "Insert the name of the person."
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Person"
+msgstr ""
+
+msgid "Add your content to be displayed in modal."
+msgstr ""
+
+msgid "Contents of Modal"
+msgstr ""
+
+msgid "Choose to show the modal footer with close button."
+msgstr ""
+
+msgid "Show footer"
+msgstr ""
+
+msgid ""
+"Controls the modal border color. Leave blank for theme option selection."
+msgstr ""
+
+msgid ""
+"Controls the modal background color. Leave blank for theme option selection."
+msgstr ""
+
+msgid "Select the modal window size."
+msgstr ""
+
+msgid "Size Of Modal"
+msgstr ""
+
+msgid "Heading text for the modal."
+msgstr ""
+
+msgid "Modal Heading"
+msgstr ""
+
+msgid ""
+"Needs to be a unique identifier (lowercase), used for button or "
+"modal_text_link shortcode to open the modal. ex: mymodal"
+msgstr ""
+
+msgid "Name Of Modal"
+msgstr ""
+
+msgid "Modal"
+msgstr ""
+
+msgid "This name will be the id you will have to use in your one page menu."
+msgstr ""
+
+msgid "Name Of Menu Anchor"
+msgstr ""
+
+msgid "Menu Anchor"
+msgstr ""
+
+msgid "This will show up in the lightbox as a description below the image."
+msgstr ""
+
+msgid "Lightbox Description"
+msgstr ""
+
+msgid "Alt Text"
+msgstr ""
+
+msgid "Clicking this image will show lightbox."
+msgstr ""
+
+msgid "Thumbnail Image"
+msgstr ""
+
+msgid "Upload an image that will show up in the lightbox."
+msgstr ""
+
+msgid "Full Image"
+msgstr ""
+
+msgid "Lightbox"
+msgstr ""
+
+msgid "Select a slider group"
+msgstr ""
+
+msgid "Select Slider"
+msgstr ""
+
+msgid "Layer Slider"
+msgstr ""
+
+msgid "Add the URL the picture will link to, ex: http://example.com."
+msgstr ""
+
+msgid "Picture Link URL"
+msgstr ""
+
+msgid "Upload an image to display in the frame"
+msgstr ""
+
+msgid "Show image in Lightbox"
+msgstr ""
+
+msgid "Choose how to align the image"
+msgstr ""
+
+msgid "Align"
+msgstr ""
+
+msgid ""
+"For all style types except border. Controls the style color. Leave blank for "
+"theme option selection."
+msgstr ""
+
+msgid "Style Color"
+msgstr ""
+
+# 'label' => __( 'Border Radius', 'fusion-core' ),
+# 'desc' => __( 'Choose the radius of the image. In pixels (px), ex: 1px, or "round".  Leave blank for theme option selection.', 'fusion-core' ),
+# ),
+# wpml-name: d271d22b55072c58e7aff4626b84ffec
+msgid ""
+"Choose the radius of the image. In pixels (px), ex: 1px, or \"round\".  "
+"Leave blank for theme option selection."
+msgstr ""
+
+msgid ""
+"For border style only. In pixels (px), ex: 1px. Leave blank for theme option "
+"selection."
+msgstr ""
+
+msgid ""
+"For border style only. Controls the border color. Leave blank for theme "
+"option selection."
+msgstr ""
+
+msgid "Bottom Shadow"
+msgstr ""
+
+msgid "Drop Shadow"
+msgstr ""
+
+msgid "Glow"
+msgstr ""
+
+msgid "Border"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Select the frame style type."
+msgstr ""
+
+msgid "Frame Style Type"
+msgstr ""
+
+msgid "Image Frame"
+msgstr ""
+
+msgid "Add New Image"
+msgstr ""
+
+msgid "Show image in lightbox."
+msgstr ""
+
+msgid "Image lightbox"
+msgstr ""
+
+msgid ""
+"The alt attribute provides alternative information if an image cannot be "
+"viewed."
+msgstr ""
+
+msgid "Upload an image to display."
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Link Target"
+msgstr ""
+
+msgid ""
+"Add the url to image's website. If lightbox option is enabled, you have to "
+"add the full image link to show it in the lightbox."
+msgstr ""
+
+msgid "Image Website Link"
+msgstr ""
+
+msgid "Image Carousel"
+msgstr ""
+
+msgid ""
+"Add address to the location which will show up on map. For multiple "
+"addresses, separate addresses by using the | symbol. \n"
+"ex: Address 1|Address 2|Address 3"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid ""
+"Custom styling setting only. Use full image urls for custom marker icons or "
+"input \"theme\" for our custom marker. For multiple addresses, separate "
+"icons by using the | symbol or use one for all. ex: Icon 1|Icon 2|Icon 3"
+msgstr ""
+
+msgid "Custom Marker Icon"
+msgstr ""
+
+msgid "Custom styling setting only. Pick a color for the info box background."
+msgstr ""
+
+msgid "Info Box Background Color"
+msgstr ""
+
+msgid "Custom styling setting only. Pick a color for the info box text."
+msgstr ""
+
+msgid "Info Box Text Color"
+msgstr ""
+
+msgid ""
+"Custom styling setting only. Type in custom info box content to replace "
+"address string. For multiple addresses, separate info box contents by using "
+"the | symbol. ex: InfoBox 1|InfoBox 2|InfoBox 3"
+msgstr ""
+
+msgid "Infobox Content"
+msgstr ""
+
+msgid "Custom Infobox"
+msgstr ""
+
+msgid "Default Infobox"
+msgstr ""
+
+msgid "Custom styling setting only. Choose between default or custom info box."
+msgstr ""
+
+msgid "Infobox Styling"
+msgstr ""
+
+msgid ""
+"Custom styling setting only. Pick an overlaying color for the map. Works "
+"best with \"roadmap\" type."
+msgstr ""
+
+msgid "Map Overlay Color"
+msgstr ""
+
+msgid "Custom Styling"
+msgstr ""
+
+msgid "Theme Styling"
+msgstr ""
+
+msgid "Default Styling"
+msgstr ""
+
+msgid ""
+"Choose default styling for classic google map styles. Choose theme styling "
+"for our custom style. Choose custom styling to make your own with the "
+"advanced options below."
+msgstr ""
+
+msgid "Select the Map Styling Switch"
+msgstr ""
+
+msgid "Display or hide tooltip by default when the map first loads."
+msgstr ""
+
+msgid "Show tooltip by default?"
+msgstr ""
+
+msgid "Displays pan control button"
+msgstr ""
+
+msgid "Show Pan Control on Map"
+msgstr ""
+
+msgid "Display the map scale"
+msgstr ""
+
+msgid "Show Scale Control on Map"
+msgstr ""
+
+msgid "Enable zooming using a mouse's scroll wheel"
+msgstr ""
+
+msgid "Scrollwheel on Map"
+msgstr ""
+
+msgid "Higher number will be more zoomed in."
+msgstr ""
+
+msgid "Zoom Level"
+msgstr ""
+
+# 'label' => __( 'Map Height', 'fusion-core' ),
+# 'desc' => __( 'Map height in pixels. ex: 300px', 'fusion-core')
+# ),
+# wpml-name: 1009e59eeb8f9e8d124a7e48ab2f285e
+msgid "Map height in pixels. ex: 300px"
+msgstr ""
+
+msgid "Map Height"
+msgstr ""
+
+msgid "Map width in percentage or pixels. ex: 100%, or 940px"
+msgstr ""
+
+msgid "Map Width"
+msgstr ""
+
+msgid "Terrain"
+msgstr ""
+
+msgid "Hybrid"
+msgstr ""
+
+msgid "Satellite"
+msgstr ""
+
+msgid "Roadmap"
+msgstr ""
+
+msgid "Select the type of google map to display"
+msgstr ""
+
+msgid "Map Type"
+msgstr ""
+
+msgid "Google Map"
+msgstr ""
+
+msgid "Click edit button to change this text."
+msgstr ""
+
+msgid "Enter some content for this textblock"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Text Block"
+msgstr ""
+
+msgid ""
+"This is the shortcode name that can be used in the post content area. It is "
+"usually all lowercase and contains only letters, numbers, and hyphens. ex: "
+"\"fusionslider_slidernamehere\""
+msgstr ""
+
+msgid "Slider Name"
+msgstr ""
+
+msgid "Fusion Slider"
+msgstr ""
+
+msgid "Select the icon's alignment."
+msgstr ""
+
+msgid "Select the size of the icon"
+msgstr ""
+
+msgid "Size of Icon"
+msgstr ""
+
+msgid "Choose to display the icon in a circle"
+msgstr ""
+
+msgid "Font Awesome"
+msgstr ""
+
+msgid "Add New Flip Box"
+msgstr ""
+
+msgid "Type in speed of animation in seconds (0.1 - 1)."
+msgstr ""
+
+msgid "Select the incoming direction for the animation."
+msgstr ""
+
+msgid "Select the type on animation to use on the shortcode."
+msgstr ""
+
+msgid ""
+"If using an icon image, specify the image height in pixels but do not add "
+"px, ex: 35."
+msgstr ""
+
+msgid ""
+"If using an icon image, specify the image width in pixels but do not add px, "
+"ex: 35."
+msgstr ""
+
+msgid ""
+"To upload your own icon image, deselect the icon above and then upload your "
+"icon image."
+msgstr ""
+
+msgid ""
+"Controls the color of the circle border. Leave blank for theme option "
+"selection."
+msgstr ""
+
+msgid ""
+"Controls the color of the circle. Leave blank for theme option selection."
+msgstr ""
+
+msgid "Choose to use a circled background on the icon."
+msgstr ""
+
+msgid "Icon Circle"
+msgstr ""
+
+msgid "Controls the color of the icon. Leave blank for theme option selection."
+msgstr ""
+
+msgid "Click an icon to select, click again to deselect."
+msgstr ""
+
+msgid ""
+"Choose the radius of the flip box. In pixels (px), ex: 1px, or \"round\". "
+"Leave blank for theme option selection."
+msgstr ""
+
+msgid "Border Radius"
+msgstr ""
+
+msgid "Controls the border color.  Leave blank for theme option selection."
+msgstr ""
+
+msgid "Border Color"
+msgstr ""
+
+msgid "In pixels (px), ex: 1px. Leave blank for theme option selection."
+msgstr ""
+
+msgid "Border Size"
+msgstr ""
+
+msgid ""
+"Controls the text color of the backside. Leave blank for theme option "
+"selection."
+msgstr ""
+
+msgid "Text Color Backside"
+msgstr ""
+
+msgid ""
+"Controls the heading color of the backside. Leave blank for theme option "
+"selection."
+msgstr ""
+
+msgid "Heading Color Backside"
+msgstr ""
+
+msgid ""
+"Controls the background color of the backside. Leave blank for theme option "
+"selection."
+msgstr ""
+
+msgid "Background Color Backside"
+msgstr ""
+
+msgid ""
+"Controls the text color of the frontside. Leave blank for theme option "
+"selection."
+msgstr ""
+
+msgid "Text Color Frontside"
+msgstr ""
+
+msgid ""
+"Controls the heading color of the frontside. Leave blank for theme option "
+"selection."
+msgstr ""
+
+msgid "Heading Color Frontside"
+msgstr ""
+
+msgid ""
+"Controls the background color of the frontside. Leave blank for theme option "
+"selection."
+msgstr ""
+
+msgid "Background Color Frontside"
+msgstr ""
+
+msgid "Add content for the backside of the flip box."
+msgstr ""
+
+msgid "Flip Box Backside Content"
+msgstr ""
+
+msgid "Add content for the frontside of the flip box."
+msgstr ""
+
+msgid "Flip Box Frontside Content"
+msgstr ""
+
+msgid "Add a heading for the backside of the flip box."
+msgstr ""
+
+msgid "Flip Box Backside Heading"
+msgstr ""
+
+msgid "Add a heading for the frontside of the flip box."
+msgstr ""
+
+msgid "Flip Box Frontside Heading"
+msgstr ""
+
+msgid "Flip Boxes"
+msgstr ""
+
+msgid "Add New Counter Circle"
+msgstr ""
+
+msgid "Insert text for counter circle box, keep it short"
+msgstr ""
+
+msgid "Counter Circle Text"
+msgstr ""
+
+msgid "Insert animation speed in milliseconds"
+msgstr ""
+
+msgid "Animation Speed"
+msgstr ""
+
+msgid "Choose to let the circle filling move counter clockwise."
+msgstr ""
+
+msgid "Choose to show a scale around circles."
+msgstr ""
+
+msgid "Show Scales"
+msgstr ""
+
+msgid "Insert size of the counter in px. ex: 220"
+msgstr ""
+
+msgid "Size of the Counter"
+msgstr ""
+
+msgid "Unfilled Color"
+msgstr ""
+
+msgid ""
+"Controls the color of the filled in area. Leave blank for theme option "
+"selection."
+msgstr ""
+
+msgid "Filled Color"
+msgstr ""
+
+msgid "From 1% to 100%"
+msgstr ""
+
+msgid "Filled Area Percentage"
+msgstr ""
+
+msgid "Counter Circle"
+msgstr ""
+
+msgid "Add New Counter Box"
+msgstr ""
+
+# 'label' => __( 'Counter Box Border Color', 'fusion-core' ),
+# 'desc' => __( 'Controls the color of the border.', 'fusion-core')
+# ),
+# wpml-name: a4889197c2d0a7dc6afeb4c61ac5d7a9
+msgid "Controls the color of the border."
+msgstr ""
+
+# 'type' => 'colorpicker',
+# 'label' => __( 'Counter Box Border Color', 'fusion-core' ),
+# 'desc' => __( 'Controls the color of the border.', 'fusion-core')
+# wpml-name: 543e4f2830f25c46a24af3e218afa244
+msgid "Counter Box Border Color"
+msgstr ""
+
+# 'label' => __( 'Counter Box Body Font Size (px)', 'fusion-core' ),
+# 'desc' => __( 'Controls the size of the counter body text. Enter the font size without \'px\' ex: 13. Leave blank for theme option styling.', 'fusion-core')
+# ),
+# wpml-name: 81a3ec2ba1f150698b9dd0a1b87e2f13
+msgid ""
+"Controls the size of the counter body text. Enter the font size without 'px' "
+"ex: 13. Leave blank for theme option styling."
+msgstr ""
+
+# 'type' => 'text',
+# 'label' => __( 'Counter Box Body Font Size (px)', 'fusion-core' ),
+# 'desc' => __( 'Controls the size of the counter body text. Enter the font size without \'px\' ex: 13. Leave blank for theme option styling.', 'fusion-core')
+# wpml-name: 69c7800d6e0239d64697b5be1633c01d
+msgid "Counter Box Body Font Size (px)"
+msgstr ""
+
+# 'label' => __( 'Counter Box Body Font Color', 'fusion-core' ),
+# 'desc' => __( 'Controls the color of the counter body text. Leave blank for theme option styling.', 'fusion-core')
+# ),
+# wpml-name: 5d75e4055f6229fc7ea336241274e662
+msgid ""
+"Controls the color of the counter body text. Leave blank for theme option "
+"styling."
+msgstr ""
+
+# 'type' => 'colorpicker',
+# 'label' => __( 'Counter Box Body Font Color', 'fusion-core' ),
+# 'desc' => __( 'Controls the color of the counter body text. Leave blank for theme option styling.', 'fusion-core')
+# wpml-name: a4ba48a79d340b1c43920fc628d2f618
+msgid "Counter Box Body Font Color"
+msgstr ""
+
+# 'label' => __( 'Counter Box Icon Size (px)', 'fusion-core' ),
+# 'desc' => __( 'Controls the size of the icon. Enter the font size without \'px\'. Default is 50. Leave blank for theme option styling.', 'fusion-core')
+# ),
+# wpml-name: 12c6be85b3606f8e478e6b1cf70f034a
+msgid ""
+"Controls the size of the icon. Enter the font size without 'px'. Default is "
+"50. Leave blank for theme option styling."
+msgstr ""
+
+# 'type' => 'text',
+# 'label' => __( 'Counter Box Icon Size (px)', 'fusion-core' ),
+# 'desc' => __( 'Controls the size of the icon. Enter the font size without \'px\'. Default is 50. Leave blank for theme option styling.', 'fusion-core')
+# wpml-name: e482839719826e84007ddb90d5b07681
+msgid "Counter Box Icon Size (px)"
+msgstr ""
+
+# array("name" 			=> __('Counter Box Title Font Size (px)', 'fusion-core'),
+# "desc"			=> __('Controls the size of the counter "value" and icon. Enter the font size without \'px\' ex: 50. Leave blank for theme option styling.', 'fusion-core'),
+# "id" 				=> "fusion_title_size",
+# wpml-name: f5fcf82d58f030d33150f92ef165c5f6
+msgid ""
+"Controls the size of the counter \"value\" and icon. Enter the font size "
+"without 'px' ex: 50. Leave blank for theme option styling."
+msgstr ""
+
+# 'type' => 'text',
+# 'label' => __( 'Counter Box Title Font Size (px)', 'fusion-core' ),
+# 'desc' => __( 'Controls the size of the title font used for the counter value. Enter the font size without \'px\'. Default is 50. Leave blank for theme option styling.', 'fusion-core')
+# wpml-name: aaa2e22dffaa3c039548c538470ee3b5
+msgid "Counter Box Title Font Size (px)"
+msgstr ""
+
+# 'label' => __( 'Counter Box Title Font Color', 'fusion-core' ),
+# 'desc' => __( 'Controls the color of the counter "value" and icon. Leave blank for theme option styling.', 'fusion-core')
+# ),
+# wpml-name: 024551343e6536c07bae8f438ae486b8
+msgid ""
+"Controls the color of the counter \"value\" and icon. Leave blank for theme "
+"option styling."
+msgstr ""
+
+# 'type' => 'colorpicker',
+# 'label' => __( 'Counter Box Title Font Color', 'fusion-core' ),
+# 'desc' => __( 'Controls the color of the counter "value" and icon. Leave blank for theme option styling.', 'fusion-core')
+# wpml-name: cf36da9df4201f959a98ee80fb0aee22
+msgid "Counter Box Title Font Color"
+msgstr ""
+
+msgid "Insert text for counter box"
+msgstr ""
+
+msgid "Counter Box Text"
+msgstr ""
+
+msgid "Countdown"
+msgstr ""
+
+msgid "Countup"
+msgstr ""
+
+msgid "Choose to count up or down."
+msgstr ""
+
+msgid "Counter Direction"
+msgstr ""
+
+msgid "Before Counter"
+msgstr ""
+
+msgid "After Counter"
+msgstr ""
+
+msgid "Choose the positioning of the unit."
+msgstr ""
+
+msgid "Unit Position"
+msgstr ""
+
+msgid "Insert a unit for the counter. ex %"
+msgstr ""
+
+msgid "Counter Box Unit"
+msgstr ""
+
+msgid "The number to which the counter will animate."
+msgstr ""
+
+msgid "Counter Value"
+msgstr ""
+
+msgid "Counter Box"
+msgstr ""
+
+msgid "Add New Content Box"
+msgstr ""
+
+msgid "Set the number of columns per row."
+msgstr ""
+
+msgid "Number of Columns"
+msgstr ""
+
+# 'label' => __( 'Icon alignment', 'fusion-core' ),
+# 'desc' => __( 'Works with "Icon beside Title and Content aligned with Title" and and "Icon Beside Title" layout options.', 'fusion-core' ),
+# 'options' => array(
+# wpml-name: 5d7005611c57bf8174e7127d5a263b8a
+msgid ""
+"Works with \"Icon beside Title and Content aligned with Title\" and and "
+"\"Icon Beside Title\" layout options."
+msgstr ""
+
+msgid "Content Alignment"
+msgstr ""
+
+# array("name"			=> __('Icon Circle Size', 'fusion-core'),
+# "desc"			=> __('Choose the size of the icon and circle.', 'fusion-core'),
+# "id"				=> "fusion_circle_size",
+# wpml-name: a3a540c9991a395fd9f7f5403e9de025
+msgid "Choose the size of the icon and circle."
+msgstr ""
+
+# 'type' => 'select',
+# 'label' => __( 'Icon circle size', 'fusion-core' ),
+# 'desc' => __( 'Size of icon circle.', 'fusion-core' ),
+# wpml-name: a5261f90144ac5b477afd6cf7278d24d
+msgid "Icon Circle Size"
+msgstr ""
+
+msgid "Icon Boxed"
+msgstr ""
+
+msgid "Icon beside Title and Content aligned with Title"
+msgstr ""
+
+msgid "Icon on Top of Title"
+msgstr ""
+
+msgid "Icon beside Title"
+msgstr ""
+
+msgid "Select the layout for the content box"
+msgstr ""
+
+msgid "Box Layout"
+msgstr ""
+
+msgid "Add content for content box"
+msgstr ""
+
+msgid "Content Box Content"
+msgstr ""
+
+msgid "Read More Link Target"
+msgstr ""
+
+msgid "Insert the text to display as the link"
+msgstr ""
+
+msgid "Read More Link Text"
+msgstr ""
+
+msgid "Add the link's url ex: http://example.com"
+msgstr ""
+
+msgid "Read More Link Url"
+msgstr ""
+
+msgid ""
+"If using an icon image, specify the image height in pixels but do not add "
+"px, ex: 35"
+msgstr ""
+
+msgid "Icon Image Height"
+msgstr ""
+
+msgid ""
+"If using an icon image, specify the image width in pixels but do not add px, "
+"ex: 35"
+msgstr ""
+
+msgid "Icon Image Width"
+msgstr ""
+
+msgid ""
+"To upload your own icon image, deselect the icon above and then upload your "
+"icon image"
+msgstr ""
+
+msgid "Icon Image"
+msgstr ""
+
+msgid "Choose to let the icon spin."
+msgstr ""
+
+msgid "Spinning Icon"
+msgstr ""
+
+msgid "Choose to rotate the icon."
+msgstr ""
+
+msgid "Rotate Icon"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Choose to flip the icon."
+msgstr ""
+
+msgid "Flip Icon"
+msgstr ""
+
+msgid "Icon Circle Border Color"
+msgstr ""
+
+msgid "Icon Circle Background Color"
+msgstr ""
+
+msgid "Leave blank for theme option selection."
+msgstr ""
+
+msgid "Content Box Background Color"
+msgstr ""
+
+msgid "Icon"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Content Boxes"
+msgstr ""
+
+# "type" 			=> ElementTypeEnum::TEXTAREA,
+# "value" 			=> __('Click edit button to change this code.', 'fusion-core')
+# ),
+# wpml-name: 1f06fd6d76f314cd8eefc0cdc6e91a75
+msgid "Click edit button to change this code."
+msgstr ""
+
+# array("name" 			=> __('Code', 'fusion-core'),
+# "desc" 			=> __('Enter some content for this codeblock', 'fusion-core'),
+# "id" 				=> "fusion_content_code",
+# wpml-name: 0bec7744dd58a8937f397fffecef7fde
+msgid "Enter some content for this codeblock"
+msgstr ""
+
+#
+# array("name" 			=> __('Code', 'fusion-core'),
+# "desc" 			=> __('Enter some content for this codeblock', 'fusion-core'),
+# wpml-name: ca0dbad92a874b2f69b549293387925e
+msgid "Code"
+msgstr ""
+
+# $innerHtml  = '<div class="fusion_iconbox textblock_element textblock_element_style" id="fusion_client_slider">';
+# $innerHtml .= '<div class="bilder_icon_container"><span class="fusion_iconbox_icon"><i class="fusiona-code"></i><sub class="sub">'.__('Code Block', 'fusion-core').'</sub></span></div>';
+# $innerHtml .= '</div>';
+# wpml-name: febf6b24daaaeced55c4cc4db7dc931b
+msgid "Code Block"
+msgstr ""
+
+msgid "Add New Client Image"
+msgstr ""
+
+msgid "Auto"
+msgstr ""
+
+msgid "Fixed"
+msgstr ""
+
+msgid ""
+"fixed = width and height will be fixed<br>auto = width and height will "
+"adjust to the image."
+msgstr ""
+
+msgid "Picture Size"
+msgstr ""
+
+msgid ""
+"The alt attribute provides alternative information if an image cannot be "
+"viewed"
+msgstr ""
+
+msgid "Image Alt Text"
+msgstr ""
+
+msgid "Upload the client image"
+msgstr ""
+
+msgid "Client Image"
+msgstr ""
+
+msgid "Add the url to client's website <br>ex: http://example.com"
+msgstr ""
+
+msgid "Client Website Link"
+msgstr ""
+
+msgid "Client Slider"
+msgstr ""
+
+msgid "Add New List Item"
+msgstr ""
+
+msgid "Select the list item's size."
+msgstr ""
+
+msgid "Item Size"
+msgstr ""
+
+msgid "Circle Color"
+msgstr ""
+
+msgid ""
+"Global setting for all list items. Set to default for theme option selection."
+msgstr ""
+
+msgid "Icon in Circle"
+msgstr ""
+
+msgid ""
+"Global setting for all list items. Leave blank for theme option selection."
+msgstr ""
+
+msgid "Icon Color"
+msgstr ""
+
+msgid ""
+"Global setting for all list items, this can be overridden individually "
+"below. Click an icon to select, click again to deselect."
+msgstr ""
+
+msgid "Add list item content"
+msgstr ""
+
+msgid "List Item Content"
+msgstr ""
+
+msgid ""
+"This setting will override the global setting above. Leave blank for theme "
+"option selection."
+msgstr ""
+
+msgid "Select Icon"
+msgstr ""
+
+msgid "Checklist"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Select the button's alignment."
+msgstr ""
+
+msgid "Alignment"
+msgstr ""
+
+msgid ""
+"Add the class name of the modal window you want to open on button click."
+msgstr ""
+
+msgid "Modal Window Anchor"
+msgstr ""
+
+msgid "Choose to display a divider between icon and text."
+msgstr ""
+
+msgid "Icon Divider"
+msgstr ""
+
+msgid "Choose the position of the icon on the button."
+msgstr ""
+
+msgid "Icon Position"
+msgstr ""
+
+msgid "Click an icon to select, click again to deselect"
+msgstr ""
+
+msgid ""
+"Choose to enable/disable the shadows. Choose default for theme option "
+"selection."
+msgstr ""
+
+msgid "Shadow"
+msgstr ""
+
+msgid ""
+"Custom setting only. In pixels (px), ex: 1px. Leave blank for theme option "
+"selection."
+msgstr ""
+
+msgid "Custom setting. Set the bevel color of 3D buttons."
+msgstr ""
+
+msgid "Bevel Color (3D Mode only)"
+msgstr ""
+
+msgid ""
+"Custom setting only. This option controls the hover color of the button "
+"border, divider, text and icon."
+msgstr ""
+
+msgid "Accent Hover Color"
+msgstr ""
+
+msgid ""
+"Custom setting only. This option controls the color of the button border, "
+"divider, text and icon."
+msgstr ""
+
+msgid ""
+"Custom setting only. Set the bottom hover color of the button background or "
+"leave empty for solid color."
+msgstr ""
+
+msgid "Button Gradient Bottom Color Hover"
+msgstr ""
+
+msgid "Custom setting only. Set the top hover color of the button background."
+msgstr ""
+
+msgid "Button Gradient Top Color Hover"
+msgstr ""
+
+msgid ""
+"Custom setting only. Set the bottom color of the button background or leave "
+"empty for solid color."
+msgstr ""
+
+msgid "Button Gradient Bottom Color"
+msgstr ""
+
+msgid "Custom setting only. Set the top color of the button background."
+msgstr ""
+
+msgid "Button Gradient Top Color"
+msgstr ""
+
+msgid "Add the text that will display on button"
+msgstr ""
+
+msgid "Button's Text"
+msgstr ""
+
+msgid "Set a title attribute for the button link."
+msgstr ""
+
+msgid "Button Title attribute"
+msgstr ""
+
+msgid "_self = open in same window<br>_blank = open in new window"
+msgstr ""
+
+msgid "Button Target"
+msgstr ""
+
+msgid "Round"
+msgstr ""
+
+msgid "Pill"
+msgstr ""
+
+msgid "Square"
+msgstr ""
+
+msgid "Select the button's shape. Choose default for theme option selection."
+msgstr ""
+
+msgid "Button Shape"
+msgstr ""
+
+msgid "Flat"
+msgstr ""
+
+msgid "Select the button's type. Choose default for theme option selection."
+msgstr ""
+
+msgid "Button Type"
+msgstr ""
+
+msgid "XLarge"
+msgstr ""
+
+msgid "Large"
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "Small"
+msgstr ""
+
+msgid "Select the button's size. Choose default for theme option selection."
+msgstr ""
+
+msgid "Button Size"
+msgstr ""
+
+msgid "Light Gray"
+msgstr ""
+
+msgid "Dark Gray"
+msgstr ""
+
+msgid "Pink"
+msgstr ""
+
+msgid "Red"
+msgstr ""
+
+msgid "Blue"
+msgstr ""
+
+msgid "Orange"
+msgstr ""
+
+msgid "Dark Green"
+msgstr ""
+
+msgid "Green"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid ""
+"Select the button's color. Select default or color name for theme options, "
+"or select custom to use advanced color options below."
+msgstr ""
+
+msgid "Button Style"
+msgstr ""
+
+msgid "Add the button's url ex: http://example.com"
+msgstr ""
+
+msgid "Button URL"
+msgstr ""
+
+msgid "Button"
+msgstr ""
+
+msgid "Add an ID to the wrapping HTML element."
+msgstr ""
+
+msgid "CSS ID"
+msgstr ""
+
+msgid "Add a class to the wrapping HTML element."
+msgstr ""
+
+msgid "CSS Class"
+msgstr ""
+
+msgid "Type in speed of animation in seconds (0.1 - 1)"
+msgstr ""
+
+msgid "Speed of Animation"
+msgstr ""
+
+msgid "Select the incoming direction for the animation"
+msgstr ""
+
+msgid "Direction of Animation"
+msgstr ""
+
+msgid "Select the type on animation to use on the shortcode"
+msgstr ""
+
+msgid "Animation Type"
+msgstr ""
+
+msgid "Your Content Goes Here"
+msgstr ""
+
+msgid "Insert the alert's content"
+msgstr ""
+
+msgid "Alert Content"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Display a box shadow below the alert box."
+msgstr ""
+
+msgid "Box Shadow"
+msgstr ""
+
+msgid "Custom setting only. Click an icon to select, click again to deselect"
+msgstr ""
+
+msgid "Select Custom Icon"
+msgstr ""
+
+msgid "Custom setting. For custom alert boxes. In pixels (px), ex: 1px."
+msgstr ""
+
+msgid "Border Width"
+msgstr ""
+
+msgid "Custom setting only. Set the background color for custom alert boxes."
+msgstr ""
+
+msgid "Background Color"
+msgstr ""
+
+msgid ""
+"Custom setting only. Set the border, text and icon color for custom alert "
+"boxes."
+msgstr ""
+
+msgid "Accent Color"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Notice"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid ""
+"Select the type of alert message. Choose custom for advanced color options "
+"below."
+msgstr ""
+
+msgid "Alert Type"
+msgstr ""
+
+msgid "Preview text will go here and custom icon choice"
+msgstr ""
+
+msgid "Alert"
+msgstr ""
+
+msgid "Pre-Built Templates"
+msgstr ""
+
+msgid "Custom Templates"
+msgstr ""
+
+msgid "Column Options"
+msgstr ""
+
+msgid "Builder Elements"
+msgstr ""
+
+msgid "Default Editor"
+msgstr ""
+
+msgid "Fusion Page Builder"
+msgstr ""
+
+msgid "DELETE"
+msgstr ""
+
+msgid "LOAD"
+msgstr ""
+
+msgid "Load Template"
+msgstr ""
+
+msgid "Save Layout As Template"
+msgstr ""
+
+msgid "Save Template"
+msgstr ""
+
+# if ( ! get_user_meta($user_id, 'fusion_richedit_nag_ignore') ) {
+# echo sprintf( '<div id="disabled-rich-editor" class="updated"><p>%s <a href="%s">%s</a><span class="dismiss" style="float:right;"><a href="%s&fusion_richedit_nag_ignore=0">%s</a></span></div>', __( 'Note: The visual editor, which is necesarry for fusion page builder to work, has been disabled in your profile settings.', 'fusion-core'), admin_url() . 'profile.php', __( 'Go to Profile', 'fusion-core' ), $full_link, __( 'Hide Notice', 'fusion-core' ) );
+# }
+# wpml-name: 9cbff64f430ec398e4f088880522f0df
+msgid "Hide Notice"
+msgstr ""
+
+# if ( ! get_user_meta($user_id, 'fusion_richedit_nag_ignore') ) {
+# echo sprintf( '<div id="disabled-rich-editor" class="updated"><p>%s <a href="%s">%s</a><span class="dismiss" style="float:right;"><a href="%s&fusion_richedit_nag_ignore=0">%s</a></span></div>', __( 'Note: The visual editor, which is necesarry for fusion page builder to work, has been disabled in your profile settings.', 'fusion-core'), admin_url() . 'profile.php', __( 'Go to Profile', 'fusion-core' ), $full_link, __( 'Hide Notice', 'fusion-core' ) );
+# }
+# wpml-name: d4a77c1632485a33052868c2b2507f90
+msgid "Go to Profile"
+msgstr ""
+
+# if ( ! get_user_meta($user_id, 'fusion_richedit_nag_ignore') ) {
+# echo sprintf( '<div id="disabled-rich-editor" class="updated"><p>%s <a href="%s">%s</a><span class="dismiss" style="float:right;"><a href="%s&fusion_richedit_nag_ignore=0">%s</a></span></div>', __( 'Note: The visual editor, which is necesarry for fusion page builder to work, has been disabled in your profile settings.', 'fusion-core'), admin_url() . 'profile.php', __( 'Go to Profile', 'fusion-core' ), $full_link, __( 'Hide Notice', 'fusion-core' ) );
+# }
+# wpml-name: f1583fc463884143191b7c7a06c92aaf
+msgid ""
+"Note: The visual editor, which is necesarry for fusion page builder to work, "
+"has been disabled in your profile settings."
+msgstr ""
+
+msgid "# of elements: %s"
+msgstr ""
+
+msgid "Fusion builder elements"
+msgstr ""
+
+msgid ""
+"There was some error, could not delete custom template. Kindly try again."
+msgstr ""
+
+msgid "Template deleted successfully."
+msgstr ""
+
+msgid "There was some error, could not add custom template. Kindly try again."
+msgstr ""
+
+msgid "Temaplte have been saved successfully."
+msgstr ""
+
+msgid ""
+"There was some error, could not update fusion builder data. Please try again."
+msgstr ""
+
+msgid "Builder content have been updated successfully."
+msgstr ""
