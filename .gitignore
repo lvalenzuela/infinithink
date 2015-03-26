@@ -32,3 +32,8 @@ wp-config.php
 _assets
 node_modules
 ai-cache/*
+
+# Wordpress Themes #
+####################
+
+content/themes/Avada/Avada_Full_Package/PSD/psd.zip
