@@ -75,6 +75,14 @@ Disallow: /')
     end
   end
 
+  desc "unzip WordPress Template Files"
+  task :unzip_wp_themes do
+    on roles(:app) do
+      execute :unzip, "#{release_path}/content/themes/Avada/Avada_Full_Package/Avada\ Theme/Avada.zip"
+      execute :unzip, "#{release_path}/content/themes/Avada/Avada_Full_Package/Avada\ Theme/Avada-Child-Theme.zip"
+    end
+  end
+
   after :finished, :create_robots
   after :create_robots, :create_template_files
   after :finishing, "deploy:cleanup"
