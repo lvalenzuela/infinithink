@@ -3,7 +3,7 @@
 ############################################
 
 set :stage, :production
-set :stage_url, "http://infinithink.kongo.cl"
+set :stage_url, "http://www.thinkit.cl"
 server "kongo.cl", user: "ubuntu", roles: %w{web app db}
 set :deploy_to, "/var/www/html/infinithink"
 
